@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-12-24 09:31">
+   <shop>
+      <url>https://www.ozon.ru/seller/td-avtoprofi-6604</url>
+      <name>Товары ТД «АВТОПРОФИ»</name>
+      <company>ТД «АВТОПРОФИ»</company>
+      <currencies>
+         <currency id="RUB" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1">Автотовары</category>
+      </categories>
+      <offers>
+         <offer id="192621902" available="true">
+            <name>Компрессор автомобильный аккумуляторный АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-192621902/</url>
+            <picture>https://i.imgur.com/p2x0s7t.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>15676</price>
+            <oldprice>28045</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="179597112" available="true">
+            <name>Компрессор автомобильный от прикуривателя АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-179597112/</url>
+            <picture>https://i.imgur.com/F3gHtrD.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>2944</price>
+            <oldprice>6480</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621901" available="true">
+            <name>Компрессор автомобильный от прикуривателя АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-192621901/</url>
+            <picture>https://i.imgur.com/A6BcJRL.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>2971</price>
+            <oldprice>7052</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621904" available="true">
+            <name>Компрессор автомобильный от прикуривателя, от аккумулятора АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621904/</url>
+            <picture>https://i.imgur.com/kv9WoNi.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>4923</price>
+            <oldprice>9331</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621903" available="true">
+            <name>Компрессор автомобильный от прикуривателя, от аккумулятора АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621903/</url>
+            <picture>https://i.imgur.com/nq1CyIt.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>4644</price>
+            <oldprice>9826</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621915" available="true">
+            <name>Компрессор автомобильный от аккумулятора АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621915/</url>
+            <picture>https://i.imgur.com/rXRCwTJ.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>4143</price>
+            <oldprice>10713</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621916" available="true">
+            <name>Компрессор автомобильный от аккумулятора АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621916/</url>
+            <picture>https://i.imgur.com/LqDcriQ.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>5393</price>
+            <oldprice>11395</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+         <offer id="192621917" available="true">
+            <name>Компрессор автомобильный аккумуляторный, двухпоршневой АГРЕССОР</name>
+            <categoryId>1</categoryId>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-dvuhporshnevoy-192621917/</url>
+            <picture>https://i.imgur.com/ACDgnWp.jpeg</picture>
+            <vendor>Агрессор</vendor>
+            <price>6730</price>
+            <oldprice>13850</oldprice>
+            <currencyId>RUB</currencyId>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
