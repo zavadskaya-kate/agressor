@@ -20,7 +20,7 @@
             <price>16011</price>
             <oldprice>28045</oldprice>
             <currencyId>RUB</currencyId>
-            <description></description>
+            <description>Комплектация: набор переходников для накачивания велосипедных шин, мячей, матрацев, набор переходников для накачивания лодок, шланг-удлинитель с двушкальным манометром, инструкция по эксплуатации, сумка для хранения.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="179597112" available="true">
@@ -32,6 +32,7 @@
             <price>3450</price>
             <oldprice>6480</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор со шлангом, набор переходников, инструкция по эксплуатации, гарантийный талон, сумка для хранения.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621901" available="true">
@@ -43,6 +44,7 @@
             <price>3737</price>
             <oldprice>7052</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор, брезентовая сумка для хранения и переноски, запасной плавкий предохранитель, инструкция по эксплуатации, набор переходных штуцеров.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621904" available="true">
@@ -54,6 +56,7 @@
             <price>5251</price>
             <oldprice>9331</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, набор переходников, инструкция, гарантийный талон, запасной предохранитель.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621903" available="true">
@@ -65,6 +68,7 @@
             <price>4650</price>
             <oldprice>9826</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор с фонарем, шланг-удлинитель с манометром, сумка для хранения, набор переходников, инструкция, гарантийный талон, запасной предохранитель, адаптер для подключения к АКБ.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621915" available="true">
@@ -76,6 +80,7 @@
             <price>5374</price>
             <oldprice>10713</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель.</description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621916" available="true">
@@ -87,6 +92,7 @@
             <price>5751</price>
             <oldprice>11395</oldprice>
             <currencyId>RUB</currencyId>
+            <description>Комплектация: компрессор с фонарем, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель. </description>
             <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621917" available="true">
@@ -98,7 +104,8 @@
             <price>7683</price>
             <oldprice>13850</oldprice>
             <currencyId>RUB</currencyId>
-            
+            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель.</description>
+            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
       </offers>
    </shop>
