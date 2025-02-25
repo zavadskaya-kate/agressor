@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-02-25 13:19">
+   <shop>
+      <url>https://big-fish.by/catalog/panaazitskaya-kukhnya-/</url>
+      <name>Товары паназиатской кухни</name>
+      <company>Крестьянское (фермерское) хозяйство «Юницкого»</company>
+      <currencies>
+         <currency id="BYN" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1">Роллы</category>
+         <category id="2">Сеты суши</category>
+         <category id="3">Поке</category>
+      </categories>
+      <offers>
+         <offer id="zharenyy-roll-s-lososem-2" available="true">
+            <name>Жареный ролл с лососем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/zharenyy-roll-s-lososem-2/</url>
+            <picture>https://big-fish.by/upload/iblock/653/uxivrs44oxdnqk2uloy28bf8royjn4py/IMG_7776.JPG</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, сливочный сыр, жареный лосось, огурец, редис маринованный.</description>
+            <param name="Вес">246 гр.</param>
+         </offer>
+         <offer id="filadelfiya-s-avokado-" available="true">
+            <name>Филадельфия с авокадо</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/filadelfiya-s-avokado-/</url>
+            <picture>https://big-fish.by/upload/iblock/4cf/px5twxdfffvn7c5ku0aqnrrc6tgvuux0/filadelfiya_s_avokado.jpg</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, авокадо, лосось, микрозелень, рис, нори.</description>
+            <param name="Вес">285 гр.</param>
+         </offer>
+         <offer id="filadelfiya-s-ugrem-" available="true">
+            <name>Филадельфия с угрем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/filadelfiya-s-ugrem-/</url>
+            <picture>https://big-fish.by/upload/iblock/5e3/4lbwc9khteq03isyv38k7b4rkc3rj32m/filadelfiya_s_ugryem.jpg</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, угорь жареный, авокадо, микрозелень, соус терияки, кунжут, рис, нори.</description>
+            <param name="Вес">240 гр.</param>
+         </offer>
+         <offer id="kaliforniya-" available="true">
+            <name>Калифорния</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/kaliforniya-/</url>
+            <picture>https://big-fish.by/upload/iblock/d55/yjcnx2rkd9dd2oq4jof9n2rd71l91y83/IMG_4950.JPG</picture>
+            <price>25</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, креветка, икра, тобико, огурец, авокадо, соус айсберг.</description>
+            <param name="Вес">220 гр.</param>
+         </offer>
+         <offer id="spring" available="true">
+            <name>Spring</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/spring/</url>
+            <picture>https://big-fish.by/upload/iblock/346/gf7u4a25juvl51vr20bb750nbvz7d7db/2.jpg</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Сливочный сыр, лосось, чука салат, ореховый соус кунжут.</description>
+            <param name="Вес">265 гр.</param>
+         </offer>
+         <offer id="lite" available="true">
+            <name>Lite</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/lite/</url>
+            <picture>https://big-fish.by/upload/iblock/f05/r3g42fbess3i7nkeotlwtk38jmlwodlx/IMG_4947.JPG</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, лосось, авокадо, рис, нори.</description>
+            <param name="Вес">205 гр.</param>
+         </offer>
+         <offer id="unagi" available="true">
+            <name>Унаги</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/unagi/</url>
+            <picture>https://big-fish.by/upload/iblock/fb2/sej13z3sekxqepduo4shpce2vyx7limj/IMG_unagi.jpg</picture>
+            <price>22</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, угорь, авокадо, сливочный сыр, соус терияки, кунжут.</description>
+            <param name="Вес">206 гр.</param>
+         </offer>
+         <offer id="bonito" available="true">
+            <name>Бонито</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/bonito/</url>
+            <picture>https://big-fish.by/upload/iblock/f68/flrz61p5lwxwmmlpsqkzp58ta3iao1os/maki_bonito.jpg</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, стружка тунца, сливочный сыр, лосось терияки, огурец.</description>
+            <param name="Вес">200 гр.</param>
+         </offer>
+         <offer id="zapechennyy-roll-s-lososem-" available="true">
+            <name>Запеченный ролл с лососем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/zapechennyy-roll-s-lososem-/</url>
+            <picture>https://big-fish.by/upload/iblock/b7d/1qf9cy2p8j38oa3vr0z8c1o6076wqih8/zapechyennyy_s_lososem.jpg</picture>
+            <price>25</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, лосось, салат айсберг, огурец, редис маринованный, соус терияки, икра тобико, сыр сливочный.</description>
+            <param name="Вес">260 гр.</param>
+         </offer>
+         <offer id="set-max" available="true">
+            <name>Сет Max</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/set-max/</url>
+            <picture>https://big-fish.by/upload/iblock/a46/30a49ihuypwmtd76z3nkmr8h3e3lktqf/maks.JPG</picture>
+            <price>65</price>
+            <currencyId>BYN</currencyId>
+            <description>Калифорния, жареный ролл с лососем Spring, запеченный ролл с лососем.</description>
+            <param name="Вес">991 гр.</param>
+         </offer>
+         <offer id="set-classic" available="true">
+            <name>Сет Classic</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/set-classic/</url>
+            <picture>https://big-fish.by/upload/iblock/1f9/z0zq7md0diul7e0ok7cr48v2w1rij1jo/kl.JPG</picture>
+            <price>57</price>
+            <currencyId>BYN</currencyId>
+            <description>Филадельфия с авокадо, Унаги, Spring.</description>
+            <param name="Вес">756 гр.</param>
+         </offer>
+         <offer id="cet-tasty-fish" available="true">
+            <name>Cет Tasty fish</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/cet-tasty-fish/</url>
+            <picture>https://big-fish.by/upload/iblock/9e9/8fl5n2c18ripx0i3iu8a9rbzj3dumx0l/testi.JPG</picture>
+            <price>55</price>
+            <currencyId>BYN</currencyId>
+            <description>Филадельфия с угрем, Lite, Бонито.</description>
+            <param name="Вес">645 гр.</param>
+         </offer>
+         <offer id="poke-s-tuntsom2" available="true">
+            <name>Поке с тунцом</name>
+            <categoryId>3</categoryId>
+            <url>https://big-fish.by/catalog/poke-s-tuntsom2/</url>
+            <picture>https://big-fish.by/upload/iblock/63d/slpsxu9jmfrsr9a5ts6o8hmcpfdj7l22/poke-s-tuntsom.JPG</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, водоросли вакаме, соус апельсиновый айоли, тунец, манго, чука салат, бобы эдамаме, лук зеленый, стружка тунца.</description>
+            <param name="Вес">270 гр.</param>
+         </offer>
+         <offer id="poke-s-lososem-" available="true">
+            <name>Поке с лососем</name>
+            <categoryId>3</categoryId>
+            <url>https://big-fish.by/catalog/poke-s-lososem-/</url>
+            <picture>https://big-fish.by/upload/iblock/e50/wb1a9bbye43sfx0wgh89yhs4o3fkd9k9/poke-s-krevetkoy.JPG</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, водоросли вакаме, соус апельсиновый айоли, лосось, чука салат, авокадо, бобы эдамаме, нити чили, лук зеленый.</description>
+            <param name="Вес">270 гр.</param>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
