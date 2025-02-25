@@ -44,7 +44,7 @@
             <param name="Вес">240 гр.</param>
          </offer>
          <offer id="kaliforniya-" available="true">
-            <name>Калифорния</name>
+            <name>Ролл Калифорния</name>
             <categoryId>1</categoryId>
             <url>https://big-fish.by/catalog/kaliforniya-/</url>
             <picture>https://big-fish.by/upload/iblock/d55/yjcnx2rkd9dd2oq4jof9n2rd71l91y83/IMG_4950.JPG</picture>
@@ -54,7 +54,7 @@
             <param name="Вес">220 гр.</param>
          </offer>
          <offer id="spring" available="true">
-            <name>Spring</name>
+            <name>Ролл Spring</name>
             <categoryId>1</categoryId>
             <url>https://big-fish.by/catalog/spring/</url>
             <picture>https://big-fish.by/upload/iblock/346/gf7u4a25juvl51vr20bb750nbvz7d7db/2.jpg</picture>
@@ -64,7 +64,7 @@
             <param name="Вес">265 гр.</param>
          </offer>
          <offer id="lite" available="true">
-            <name>Lite</name>
+            <name>Ролл Lite</name>
             <categoryId>1</categoryId>
             <url>https://big-fish.by/catalog/lite/</url>
             <picture>https://big-fish.by/upload/iblock/f05/r3g42fbess3i7nkeotlwtk38jmlwodlx/IMG_4947.JPG</picture>
@@ -74,7 +74,7 @@
             <param name="Вес">205 гр.</param>
          </offer>
          <offer id="unagi" available="true">
-            <name>Унаги</name>
+            <name>Ролл Унаги</name>
             <categoryId>1</categoryId>
             <url>https://big-fish.by/catalog/unagi/</url>
             <picture>https://big-fish.by/upload/iblock/fb2/sej13z3sekxqepduo4shpce2vyx7limj/IMG_unagi.jpg</picture>
@@ -84,7 +84,7 @@
             <param name="Вес">206 гр.</param>
          </offer>
          <offer id="bonito" available="true">
-            <name>Бонито</name>
+            <name>Ролл Бонито</name>
             <categoryId>1</categoryId>
             <url>https://big-fish.by/catalog/bonito/</url>
             <picture>https://big-fish.by/upload/iblock/f68/flrz61p5lwxwmmlpsqkzp58ta3iao1os/maki_bonito.jpg</picture>
