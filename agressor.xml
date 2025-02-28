@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2024-12-24 09:31">
+<yml_catalog date="2024-12-28 16:31">
    <shop>
-      <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/seller/td-avtoprofi-6604/avtomobilnye-kompressory-i-komplektuyushchie-38783/agressor-25262134/&amp;af_web_dp=https://www.ozon.ru/seller/td-avtoprofi-6604/avtomobilnye-kompressory-i-komplektuyushchie-38783/agressor-25262134/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;miniapp=seller_6604&amp;opened=brand&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299</url>
+      <url>https://www.ozon.ru/seller/td-avtoprofi-6604</url>
       <name>Товары ТД «АВТОПРОФИ»</name>
       <company>ТД «АВТОПРОФИ»</company>
       <currencies>
@@ -14,98 +14,82 @@
          <offer id="192621902" available="true">
             <name>Компрессор автомобильный аккумуляторный АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-192621902/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-192621902/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-160&amp;at=nRtrVnX8ES2g0z82hGA5NAvFqzD3p8ULoRRk9fpAN5l9&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-160</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-192621902/</url>
             <picture>https://i.imgur.com/p2x0s7t.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>16011</price>
+            <price>14169</price>
             <oldprice>28045</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: набор переходников для накачивания велосипедных шин, мячей, матрацев, набор переходников для накачивания лодок, шланг-удлинитель с двушкальным манометром, инструкция по эксплуатации, сумка для хранения.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="179597112" available="true">
             <name>Компрессор автомобильный от прикуривателя АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-179597112/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-179597112/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-30&amp;at=x6tPjZJm4FWAy8B1IoZ8w0VCVNQ9oJHAwrmx7T61NGXg&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-30</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-179597112/</url>
             <picture>https://i.imgur.com/F3gHtrD.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>3450</price>
+            <price>3142</price>
             <oldprice>6480</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор со шлангом, набор переходников, инструкция по эксплуатации, гарантийный талон, сумка для хранения.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621901" available="true">
             <name>Компрессор автомобильный от прикуривателя АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-192621901/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-192621901/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-30L&amp;at=oZt6mkXlLcjQVQGmC0Apl6mFAQDrG2sZqy97DTw3yymP&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-30L</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-192621901/</url>
             <picture>https://i.imgur.com/A6BcJRL.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>3737</price>
+            <price>3408</price>
             <oldprice>7052</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор, брезентовая сумка для хранения и переноски, запасной плавкий предохранитель, инструкция по эксплуатации, набор переходных штуцеров.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621904" available="true">
             <name>Компрессор автомобильный от прикуривателя, от аккумулятора АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621904/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621904/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-35&amp;at=LZtl2LPNpFoD7VEoSpXV4oXIj3ZoDBFoPJx5IPnGgXo&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-35</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621904/</url>
             <picture>https://i.imgur.com/kv9WoNi.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>5251</price>
+            <price>4645</price>
             <oldprice>9331</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, набор переходников, инструкция, гарантийный талон, запасной предохранитель.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621903" available="true">
             <name>Компрессор автомобильный от прикуривателя, от аккумулятора АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621903/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621903/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-35L&amp;at=79tnYLmExs01RrglHQk8NZ2SVN2y0Ai42NP69T7g9LqP&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-35L</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-prikurivatelya-ot-akkumulyatora-192621903/</url>
             <picture>https://i.imgur.com/nq1CyIt.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>4650</price>
+            <price>4796</price>
             <oldprice>9826</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор с фонарем, шланг-удлинитель с манометром, сумка для хранения, набор переходников, инструкция, гарантийный талон, запасной предохранитель, адаптер для подключения к АКБ.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621915" available="true">
             <name>Компрессор автомобильный от аккумулятора АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621915/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621915/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-50&amp;at=28t0Q7kKJsNDKBg6sgJjk1lSmqOwKqi8Yx3r6hQx20My&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-50</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621915/</url>
             <picture>https://i.imgur.com/rXRCwTJ.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>5374</price>
+            <price>4810</price>
             <oldprice>10713</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621916" available="true">
             <name>Компрессор автомобильный от аккумулятора АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621916/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621916/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-50L&amp;at=28t0Q7VMYU699n0NsWovpXOc0XE8lnfGnPpRLfnPlzqJ&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-50L</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-ot-akkumulyatora-192621916/</url>
             <picture>https://i.imgur.com/LqDcriQ.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>5751</price>
+            <price>5111</price>
             <oldprice>11395</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор с фонарем, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель. </description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
          <offer id="192621917" available="true">
             <name>Компрессор автомобильный аккумуляторный, двухпоршневой АГРЕССОР</name>
             <categoryId>1</categoryId>
-            <url>https://ozon.onelink.me/SNMZ?af_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-dvuhporshnevoy-192621917/&amp;af_web_dp=https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-dvuhporshnevoy-192621917/&amp;is_retargeting=true&amp;c=vendor_org_37299&amp;pid=banner&amp;af_keywords=AGR-75&amp;at=6WtZJXP5NUln19L5sJVYZWzHBxLzlOIZ3W3lJuXqGmrr&amp;hs=1&amp;utm_medium=banner&amp;utm_campaign=vendor_org_37299&amp;utm_term=AGR-75</url>
+            <url>https://www.ozon.ru/product/agressor-kompressor-avtomobilnyy-akkumulyatornyy-dvuhporshnevoy-192621917/</url>
             <picture>https://i.imgur.com/ACDgnWp.jpeg</picture>
             <vendor>Агрессор</vendor>
-            <price>7683</price>
+            <price>6676</price>
             <oldprice>13850</oldprice>
             <currencyId>RUB</currencyId>
-            <description>Комплектация: компрессор, шланг-удлинитель с манометром, сумка для хранения, переходники, инструкция, гарантийный талон, запасной предохранитель.</description>
-            <sales_notes>Широкий ассортимент, высокое качество, 3 года гарантии.</sales_notes>
          </offer>
       </offers>
    </shop>
