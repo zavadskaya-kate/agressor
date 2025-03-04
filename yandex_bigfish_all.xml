@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-03-04 14:41">
+   <shop>
+      <url>https://big-fish.by/catalog/panaazitskaya-kukhnya-/</url>
+      <name>Товары паназиатской кухни</name>
+      <company>Крестьянское (фермерское) хозяйство «Юницкого»</company>
+      <currencies>
+         <currency id="BYN" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1">Роллы</category>
+         <category id="2">Сеты суши</category>
+         <category id="3">Поке</category>
+         <category id="4">Пицца из неаполитанской печи</category>
+         <category id="5">Напитки и соки</category>
+         <category id="6">Фермерская продукция</category>
+         <category id="7">Чаи и сборы трав</category>
+         <category id="8">uTerra и биогумус</category>
+      </categories>
+      <offers>
+         <offer id="zharenyy-roll-s-lososem-2" available="true">
+            <name>Жареный ролл с лососем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/zharenyy-roll-s-lososem-2/</url>
+            <picture>https://big-fish.by/upload/iblock/653/uxivrs44oxdnqk2uloy28bf8royjn4py/IMG_7776.JPG</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, сливочный сыр, жареный. лосось, огурец, редис маринованный.</description>
+            <param name="Вес">246 гр.</param>
+         </offer>
+         <offer id="filadelfiya-s-avokado-" available="true">
+            <name>Филадельфия с авокадо</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/filadelfiya-s-avokado-/</url>
+            <picture>https://big-fish.by/upload/iblock/4cf/px5twxdfffvn7c5ku0aqnrrc6tgvuux0/filadelfiya_s_avokado.jpg</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, авокадо, лосось, микрозелень, рис, нори.</description>
+            <param name="Вес">285 гр.</param>
+         </offer>
+         <offer id="filadelfiya-s-ugrem-" available="true">
+            <name>Филадельфия с угрем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/filadelfiya-s-ugrem-/</url>
+            <picture>https://big-fish.by/upload/iblock/5e3/4lbwc9khteq03isyv38k7b4rkc3rj32m/filadelfiya_s_ugryem.jpg</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, угорь жареный, авокадо, микрозелень, соус терияки, кунжут, рис, нори.</description>
+            <param name="Вес">240 гр.</param>
+         </offer>
+         <offer id="kaliforniya-" available="true">
+            <name>Ролл Калифорния</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/kaliforniya-/</url>
+            <picture>https://big-fish.by/upload/iblock/d55/yjcnx2rkd9dd2oq4jof9n2rd71l91y83/IMG_4950.JPG</picture>
+            <price>25</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, креветка, икра, тобико, огурец, авокадо, соус айсберг.</description>
+            <param name="Вес">220 гр.</param>
+         </offer>
+         <offer id="spring" available="true">
+            <name>Ролл Spring</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/spring/</url>
+            <picture>https://big-fish.by/upload/iblock/346/gf7u4a25juvl51vr20bb750nbvz7d7db/2.jpg</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Сливочный сыр, лосось, чука салат, ореховый соус кунжут.</description>
+            <param name="Вес">265 гр.</param>
+         </offer>
+         <offer id="lite" available="true">
+            <name>Ролл Lite</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/lite/</url>
+            <picture>https://big-fish.by/upload/iblock/f05/r3g42fbess3i7nkeotlwtk38jmlwodlx/IMG_4947.JPG</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Сыр сливочный, лосось, авокадо, рис, нори.</description>
+            <param name="Вес">205 гр.</param>
+         </offer>
+         <offer id="unagi" available="true">
+            <name>Ролл Унаги</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/unagi/</url>
+            <picture>https://big-fish.by/upload/iblock/fb2/sej13z3sekxqepduo4shpce2vyx7limj/IMG_unagi.jpg</picture>
+            <price>22</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, угорь, авокадо, сливочный сыр, соус терияки, кунжут.</description>
+            <param name="Вес">206 гр.</param>
+         </offer>
+         <offer id="bonito" available="true">
+            <name>Ролл Бонито</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/bonito/</url>
+            <picture>https://big-fish.by/upload/iblock/f68/flrz61p5lwxwmmlpsqkzp58ta3iao1os/maki_bonito.jpg</picture>
+            <price>20</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, стружка тунца, сливочный сыр, лосось терияки, огурец.</description>
+            <param name="Вес">200 гр.</param>
+         </offer>
+         <offer id="zapechennyy-roll-s-lososem-" available="true">
+            <name>Запеченный ролл с лососем</name>
+            <categoryId>1</categoryId>
+            <url>https://big-fish.by/catalog/zapechennyy-roll-s-lososem-/</url>
+            <picture>https://big-fish.by/upload/iblock/b7d/1qf9cy2p8j38oa3vr0z8c1o6076wqih8/zapechyennyy_s_lososem.jpg</picture>
+            <price>25</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, нори, лосось, салат айсберг, огурец, редис маринованный, соус терияки, икра тобико, сыр сливочный.</description>
+            <param name="Вес">260 гр.</param>
+         </offer>
+         <offer id="set-max" available="true">
+            <name>Сет Max</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/set-max/</url>
+            <picture>https://big-fish.by/upload/iblock/a46/30a49ihuypwmtd76z3nkmr8h3e3lktqf/maks.JPG</picture>
+            <price>65</price>
+            <currencyId>BYN</currencyId>
+            <description>Калифорния, жареный ролл с лососем Spring,запеченный ролл с лососем.</description>
+            <param name="Вес">991 гр.</param>
+         </offer>
+         <offer id="set-classic" available="true">
+            <name>Сет Classic</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/set-classic/</url>
+            <picture>https://big-fish.by/upload/iblock/1f9/z0zq7md0diul7e0ok7cr48v2w1rij1jo/kl.JPG</picture>
+            <price>57</price>
+            <currencyId>BYN</currencyId>
+            <description>Филадельфия с авокадо, Унаги, Spring.</description>
+            <param name="Вес">756 гр.</param>
+         </offer>
+         <offer id="cet-tasty-fish" available="true">
+            <name>Cет Tasty fish</name>
+            <categoryId>2</categoryId>
+            <url>https://big-fish.by/catalog/cet-tasty-fish/</url>
+            <picture>https://big-fish.by/upload/iblock/9e9/8fl5n2c18ripx0i3iu8a9rbzj3dumx0l/testi.JPG</picture>
+            <price>55</price>
+            <currencyId>BYN</currencyId>
+            <description>Филадельфия с угрем, Lite, Бонито.</description>
+            <param name="Вес">645 гр.</param>
+         </offer>
+         <offer id="poke-s-tuntsom2" available="true">
+            <name>Поке с тунцом</name>
+            <categoryId>3</categoryId>
+            <url>https://big-fish.by/catalog/poke-s-tuntsom2/</url>
+            <picture>https://big-fish.by/upload/iblock/63d/slpsxu9jmfrsr9a5ts6o8hmcpfdj7l22/poke-s-tuntsom.JPG</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, водоросли вакаме, соус апельсиновый айоли, тунец, манго, чука салат, бобы эдамаме, лук зеленый, стружка тунца.</description>
+            <param name="Вес">270 гр.</param>
+         </offer>
+         <offer id="poke-s-lososem-" available="true">
+            <name>Поке с лососем</name>
+            <categoryId>3</categoryId>
+            <url>https://big-fish.by/catalog/poke-s-lososem-/</url>
+            <picture>https://big-fish.by/upload/iblock/e50/wb1a9bbye43sfx0wgh89yhs4o3fkd9k9/poke-s-krevetkoy.JPG</picture>
+            <price>27</price>
+            <currencyId>BYN</currencyId>
+            <description>Рис, водоросли вакаме, соус апельсиновый айоли, лосось, чука салат, авокадо, бобы эдамаме, нити чили, лук зеленый.</description>
+            <param name="Вес">270 гр.</param>
+         </offer>
+         <offer id="pitstsa-s-vetchinoy-kuritsey-i-gribami2" available="true">
+            <name>Пицца с ветчиной, курицей и грибами</name>
+            <categoryId>4</categoryId>
+            <url>https://big-fish.by/catalog/pitstsa-s-vetchinoy-kuritsey-i-gribami2/</url>
+            <picture>https://big-fish.by/upload/iblock/2c4/jdentjmss4yrmg0699454mpgy1bjdbha/kur-kobr.JPG</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <param name="Вес">330 гр.</param>
+         </offer>
+         <offer id="pitstsa-pepperoni2" available="true">
+            <name>Пицца "Пепперони"</name>
+            <categoryId>4</categoryId>
+            <url>https://big-fish.by/catalog/pitstsa-pepperoni2/</url>
+            <picture>https://big-fish.by/upload/iblock/ea6/jei1exguuwfbccr6tw4co1vftu3b1rv7/Pitstsa_Pepperoni.jpg</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <param name="Вес">315 гр.</param>
+         </offer>
+         <offer id="pitstsa-slivochnaya-s-vetchinoy1" available="true">
+            <name>Пицца "Сливочная с ветчиной"</name>
+            <categoryId>4</categoryId>
+            <url>https://big-fish.by/catalog/pitstsa-slivochnaya-s-vetchinoy1/</url>
+            <picture>https://big-fish.by/upload/iblock/ed4/ouc76t0rsr9gb8bpb0xzwo09fvgwvxyf/Pitstsa_slivochnaya_s_vetchinoy.jpg</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <description>Тесто для пиццы, соус сливочный, сыр моцарелла, бекон, ветчина.</description>
+            <param name="Вес">315 гр.</param>
+         </offer>
+         <offer id="pitstsa-italyano" available="true">
+            <name>Пицца "Итальяно"</name>
+            <categoryId>4</categoryId>
+            <url>https://big-fish.by/catalog/pitstsa-italyano/</url>
+            <picture>https://big-fish.by/upload/iblock/8b2/xy95tci0lakq76ve9khbigzij2cgf8ns/italyano.png</picture>
+            <price>18</price>
+            <currencyId>BYN</currencyId>
+            <description>Тесто для пиццы, соус для пиццы, сыр моцарелла, маслины, пепперони, шампиньоны.</description>
+            <param name="Вес">290 гр.</param>
+         </offer>
+         <offer id="pitstsa-margarita" available="true">
+            <name>Пицца "Маргарита"</name>
+            <categoryId>4</categoryId>
+            <url>https://big-fish.by/catalog/pitstsa-margarita/</url>
+            <picture>https://big-fish.by/upload/iblock/54e/qi9a6wij16y2hkkb5k3cu279pwd34of1/marg-kobr.JPG</picture>
+            <price>15</price>
+            <currencyId>BYN</currencyId>
+            <description>Тесто для пиццы, соус для пиццы, сыр моцарелла, масло чесночное.</description>
+            <param name="Вес">290 гр.</param>
+         </offer>
+         <offer id="sok-fermerskiy-klyukva-0-3-l-" available="true">
+            <name>Сок фермерский "Клюква" 0,3 л.</name>
+            <categoryId>5</categoryId>
+            <url>https://big-fish.by/catalog/sok-fermerskiy-klyukva-0-3-l-/</url>
+            <picture>https://big-fish.by/upload/iblock/a6e/dmokkwtvrfu9ceykbi6hjtw40t33btvl/sok-klyukva.jpg</picture>
+            <price>11</price>
+            <currencyId>BYN</currencyId>
+            <description>100% клюква.</description>
+         </offer>
+         <offer id="sok-fermerskiy-golubika-0-25-l-" available="true">
+            <name>Сок фермерский "Голубика" 0,25 л.</name>
+            <categoryId>5</categoryId>
+            <url>https://big-fish.by/catalog/sok-fermerskiy-golubika-0-25-l-/</url>
+            <picture>https://big-fish.by/upload/iblock/a1d/rakz51wufryub6jggf4nqq8i51upqjzk/sok-golubika.jpg</picture>
+            <price>15</price>
+            <currencyId>BYN</currencyId>
+            <description>100% голубика.</description>
+         </offer>
+         <offer id="sok-fermerskiy-vishnya-0-25-l" available="true">
+            <name>Сок фермерский "Вишня" 0,25 л.</name>
+            <categoryId>5</categoryId>
+            <url>https://big-fish.by/catalog/sok-fermerskiy-vishnya-0-25-l/</url>
+            <picture>https://big-fish.by/upload/iblock/461/buykrcg5tvmk0oo8dnvjgt4cn779ev4q/sok-vishnya.jpg</picture>
+            <price>11,90</price>
+            <currencyId>BYN</currencyId>
+            <description>100% вишня.</description>
+         </offer>
+         <offer id="med-fermerskiy-0-7-kg-raznotrave" available="true">
+            <name>Мед фермерский разнотравье</name>
+            <categoryId>6</categoryId>
+            <url>https://big-fish.by/catalog/med-fermerskiy-0-7-kg-raznotrave/</url>
+            <picture>https://big-fish.by/upload/iblock/dd6/wqi0a0vjz81hybt9hw2oumjpfmglf2a7/med-0_7.jpg</picture>
+            <price>11</price>
+            <currencyId>BYN</currencyId>
+            <param name="Вес">700 гр.</param>
+         </offer>
+         <offer id="med-fermerskiy-0-4-raznotrave-" available="true">
+            <name>Мед фермерский разнотравье</name>
+            <categoryId>6</categoryId>
+            <url>https://big-fish.by/catalog/med-fermerskiy-0-4-raznotrave-/</url>
+            <picture>https://big-fish.by/upload/iblock/6a9/o1sg4e9cel0s2nmbhseqy661qv40nzk1/med-0_4.jpg</picture>
+            <price>6</price>
+            <currencyId>BYN</currencyId>
+            <param name="Вес">400 гр.</param>
+         </offer>
+         <offer id="skumbriya-goryachego-kopcheniya-bez-golovy" available="true">
+            <name>Скумбрия горячего копчения без головы</name>
+            <categoryId>6</categoryId>
+            <url>https://big-fish.by/catalog/skumbriya-goryachego-kopcheniya-bez-golovy/</url>
+            <picture>https://big-fish.by/upload/iblock/1a0/7x9howejv07ng7nvnp7f5du23wsomdir/skumbriya-gk.jpg</picture>
+            <price>36</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="forel-fermerskaya-goryachego-kopcheniya" available="true">
+            <name>Форель фермерская горячего копчения</name>
+            <categoryId>6</categoryId>
+            <url>https://big-fish.by/catalog/forel-fermerskaya-goryachego-kopcheniya/</url>
+            <picture>https://big-fish.by/upload/iblock/926/723ojwypizxkj1t65m8o39jb8mvw7v6y/forelt-gk.jpg</picture>
+            <price>48</price>
+            <currencyId>BYN</currencyId>
+            <description>Форель, сахар, соль.</description>
+            <param name="Вес">1 кг.</param>
+         </offer>
+         <offer id="karp-fermerskiy-goryachego-kopcheniya" available="true">
+            <name>Карп фермерский горячего копчения</name>
+            <categoryId>6</categoryId>
+            <url>https://big-fish.by/catalog/karp-fermerskiy-goryachego-kopcheniya/</url>
+            <picture>https://big-fish.by/upload/iblock/0bd/huz0m8ncz0u8idvx02l3hfi0dae006ah/karp-gk-1.jpg</picture>
+            <price>31</price>
+            <currencyId>BYN</currencyId>
+            <description>Карп, соль, сахар.</description>
+            <param name="Вес">1 кг.</param>
+         </offer>
+         <offer id="chay-fermerskiy-uspokaivayushchiy-40-gr-" available="true">
+            <name>Чай фермерский "Успокаивающий"</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/chay-fermerskiy-uspokaivayushchiy-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/c78/6w5g3wi9xucgwgx59oaz2wakr9u9kyh2/usp.jpg</picture>
+            <price>6</price>
+            <currencyId>BYN</currencyId>
+            <description>Чай зеленый, мята, яблоко сушеное, пустырник, ромашка.</description>
+            <param name="Вес">40 гр.</param>
+         </offer>
+         <offer id="chay-fermerskiy-bodryashchiy-40-gr-" available="true">
+            <name>Чай фермерский "Бодрящий"</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/chay-fermerskiy-bodryashchiy-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/013/wbvs9b9pypqw6rmpt3g121hqcqpajh3y/bodr.jpg</picture>
+            <price>6</price>
+            <currencyId>BYN</currencyId>
+            <description>Чай зеленый, айва, мята шоколадная, мелисса, имбирь.</description>
+            <param name="Вес">40 гр.</param>
+         </offer>
+         <offer id="myata-40-gr-" available="true">
+            <name>Мята</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/myata-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/663/rznkuafp4w2u7lyhnjbvwlriac205828/myata.jpg</picture>
+            <price>4</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="chay-fermerskiy-akvarelka-40-gr-" available="true">
+            <name>Чай фермерский "Акварелька"</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/chay-fermerskiy-akvarelka-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/b80/wu01nqv8dyspnr3klzir2335a2k94up2/akvarelka.jpg</picture>
+            <price>5</price>
+            <currencyId>BYN</currencyId>
+            <description>Зверобой, мелисса, календула, иссоп, красная рябина, лист голубики, зеленый чай.</description>
+            <param name="Вес">40 гр.</param>
+         </offer>
+         <offer id="chay-fermerskiy-nadezhda-40-gr-" available="true">
+            <name>Чай фермерский "Надежда"</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/chay-fermerskiy-nadezhda-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/2e6/v9slhfe0wp0lq4sb8vvkcj9erqmmeo8q/nadezhda.jpg</picture>
+            <price>5</price>
+            <currencyId>BYN</currencyId>
+            <description>Душица, иссоп, мелиса, монарда, яблоко, чай зеленый.</description>
+            <param name="Вес">40 гр.</param>
+         </offer>
+         <offer id="dushitsa-40-gr-" available="true">
+            <name>Душица</name>
+            <categoryId>7</categoryId>
+            <url>https://big-fish.by/catalog/dushitsa-40-gr-/</url>
+            <picture>https://big-fish.by/upload/iblock/e2a/je9xc6ewemhpk2pfb7y87y4cz6v9oneb/photo_2025_02_07_17_53_12.jpg</picture>
+            <price>4,50</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="eleksir-plodorodiya-zdorovye-frukty-yagody" available="true">
+            <name>Эликсир плодородия "Здоровые фрукты-ягоды"</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/eleksir-plodorodiya-zdorovye-frukty-yagody/</url>
+            <picture>https://big-fish.by/upload/iblock/17b/jglp1xiq1bgo7f1342g482a4qzk6wi2z/yut-fr.png</picture>
+            <price>8,10</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="pochvennyy-eliksir-universalnyy-u-terra" available="true">
+            <name>Эликсир плодородия "Здоровые овощи"</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/pochvennyy-eliksir-universalnyy-u-terra/</url>
+            <picture>https://big-fish.by/upload/iblock/854/6jv6ghgl5byata4kdvftfug6qidm1dpd/yut-ovoshchi.png</picture>
+            <price>8,10</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="pochvennyy-eliksir-universalnyy-uterra" available="true">
+            <name>Эликсир плодородия "Здоровые цветы"</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/pochvennyy-eliksir-universalnyy-uterra/</url>
+            <picture>https://big-fish.by/upload/iblock/91c/v2vb2vtq5kv8vgw9j94vga0ux668vdny/yut-tsvety.png</picture>
+            <price>8,10</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="eleksir-plodorodiya-zdorovye-yagody-" available="true">
+            <name>Эликсир плодородия "Здоровые ягоды"</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/eleksir-plodorodiya-zdorovye-yagody-/</url>
+            <picture>https://big-fish.by/upload/iblock/f57/b1gyynjfjsn5gwzqnnlcpl9ojdsl2six/yut-yagody.png</picture>
+            <price>8,10</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="biogumus-5-kg" available="true">
+            <name>Биогумус</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/biogumus-5-kg/</url>
+            <picture>https://big-fish.by/upload/iblock/d19/vbkvptunbfbwp03sgn8xl58js7he8ddv/1.-uTerra-meshok-5kg_mockup.png</picture>
+            <price>7</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+         <offer id="biogumus-3-kg" available="true">
+            <name>Биогумус</name>
+            <categoryId>8</categoryId>
+            <url>https://big-fish.by/catalog/biogumus-3-kg/</url>
+            <picture>https://big-fish.by/upload/iblock/9a1/714n46u8gi53l6aw00yzaxftbafahur3/2.-uTerra-meshok-3kg_mockup.png</picture>
+            <price>6,50</price>
+            <currencyId>BYN</currencyId>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
