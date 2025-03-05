@@ -23,7 +23,7 @@
             <sales_notes>С промокодом "ВЕСНА" дополнительная скидка 25%</sales_notes>
          </offer>
          <offer id="krem-praymer" available="true">
-            <name>Крем-праймер для сияния и защиты кожи Dr. Sebagh</name>
+            <name>Крем-праймер Dr. Sebagh</name>
             <categoryId>1</categoryId>
             <url>https://drsebagh-russia.ru/catalog/product/krem-praymer-s-vitaminom-s-spf-15-dlya-siyaniya-i-zashchity-kozhi-dr-sebagh-40-ml/</url>
             <picture>https://drsebagh-russia.ru/upload/iblock/e85/ntyttfkq2p67bwj2fnw1u3a2yp81yon2.jpeg</picture>
@@ -34,7 +34,7 @@
             <sales_notes>С промокодом "ВЕСНА" дополнительная скидка 25%</sales_notes>
          </offer>
          <offer id="gel-lifting-dlya-kozhi-vokrug-glaz" available="true">
-            <name>Гель-лифтинг для кожи вокруг глаз Dr. Sebagh</name>
+            <name>Гель-лифтинг Dr. Sebagh</name>
             <categoryId>1</categoryId>
             <url>https://drsebagh-russia.ru/catalog/product/gel-lifting-dlya-kozhi-vokrug-glaz-dr-sebagh-15-ml/</url>
             <picture>https://drsebagh-russia.ru/upload/iblock/64f/1nnyy3sxwzvettxxwaly0jmssb23c3hn.jpeg</picture>
