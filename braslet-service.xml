@@ -54,15 +54,6 @@
             <currencyId>RUB</currencyId>
             <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
          </offer>
-         <offer id="bx_3966226736_698" available="true">
-            <name>Силиконовые браслеты для джибитсов оптом</name>
-            <categoryId>2</categoryId>
-            <url>https://braslet-service.ru/katalog-produkcii/330-silikonovye-braslety-dlja-dzhibitsov/</url>
-            <picture>https://braslet-service.ru/upload/iblock/e10/yubeo62p6qc04lu6ryk142tvh0bogltp.jpg</picture>
-            <price>52</price>
-            <currencyId>RUB</currencyId>
-            <description>Силиконовые браслеты для джибитсов/клиперсов отлично подойдут для детей в качестве промосувенира.</description>
-         </offer>
          <offer id="bx_3966226736_932" available="true">
             <name>Сумка-шоппер складная хозяйственная оптом</name>
             <categoryId>3</categoryId>
