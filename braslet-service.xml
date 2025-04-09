@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-04-09 17:10">
+   <shop>
+      <url>https://braslet-service.ru/</url>
+      <name>Корпоративные подарки</name>
+      <company>ООО «БРАСЛЕТ-СЕРВИС»</company>
+      <currencies>
+         <currency id="RUB" rate="1"/>
+      </currencies>
+      <categories>
+         <category id="1">Металлические значки</category>
+         <category id="2">Джибитсы</category>
+         <category id="3">Шопперы</category>
+         <category id="4">Зонты</category>
+         <category id="5">Ремувки</category>
+         <category id="6">Зарядные устройства</category>
+         <category id="7">Картхолдеры</category>
+         <category id="8">Силиконовые браслеты</category>
+      </categories>
+      <offers>
+         <offer id="bx_3966226736_456" available="true">
+            <name>Металлические значки оптом</name>
+            <categoryId>1</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/metallicheskie-znachki-po-individualnomu-dizajnu/</url>
+            <picture>https://braslet-service.ru/upload/iblock/560/h27ejr3e0iko6s9hn1wg0r06tnopdozc.jpg</picture>
+            <price>50</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_849" available="true">
+            <name>Браслеты для джибитсов под логотип оптом</name>
+            <categoryId>2</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/braslety-dlya-dzhibitsov-pod-logotip/</url>
+            <picture>https://braslet-service.ru/upload/iblock/4c0/z588ijtg91p4nxsdowj02joasskvq3qz.jpg</picture>
+            <price>85</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_415" available="true">
+            <name>Набор джибитсов оптом</name>
+            <categoryId>2</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/438-nabor-dzhibitsov-gotovye-varianty/</url>
+            <picture>https://braslet-service.ru/upload/iblock/a36/11tjpy13raz5qc1vv0go1sc0927uqqur.jpg</picture>
+            <price>10</price>
+            <currencyId>RUB</currencyId>
+            <description>Комплекты джибисов состоят из 100 штук. Эти комплекты идеально подойдут для коллекционера или любителя этих милых и оригинальных миниатюр.</description>
+         </offer>
+         <offer id="bx_3966226736_274" available="true">
+            <name>Джибитсы по индивидуальному дизайну оптом</name>
+            <categoryId>2</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/367-dzhibitsy/</url>
+            <picture>https://braslet-service.ru/upload/iblock/2bd/6s994c0xs7izdzyvb2a2cn92hu7o2da2.jpg</picture>
+            <price>83</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_698" available="true">
+            <name>Силиконовые браслеты для джибитсов оптом</name>
+            <categoryId>2</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/330-silikonovye-braslety-dlja-dzhibitsov/</url>
+            <picture>https://braslet-service.ru/upload/iblock/e10/yubeo62p6qc04lu6ryk142tvh0bogltp.jpg</picture>
+            <price>52</price>
+            <currencyId>RUB</currencyId>
+            <description>Силиконовые браслеты для джибитсов/клиперсов отлично подойдут для детей в качестве промосувенира.</description>
+         </offer>
+         <offer id="bx_3966226736_932" available="true">
+            <name>Сумка-шоппер складная хозяйственная оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/sumka-shopper-skladnaya-khozyaystvennaya/</url>
+            <picture>https://braslet-service.ru/upload/iblock/6c4/c3ebunbr7u01nz4pmvlyayq9tq23s0my.jpg</picture>
+            <price>210</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_423" available="true">
+            <name>Сумка-шоппер из светоотражающей ткани оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/446-sumka-shopper-iz-svetootrazhajuschej-tkani/</url>
+            <picture>https://braslet-service.ru/upload/iblock/8c0/jeihlisnhpks71mfh8l51saifmcex8mj.jpg</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_376" available="true">
+            <name>Шоппер-хамелеон мультиколор оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/398-shopper-hameleon-multikolor/</url>
+            <picture>https://braslet-service.ru/upload/iblock/441/tydaf792pbodf6f24ycbr2s8q3jbf29a.jpg</picture>
+            <price>375</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_377" available="true">
+            <name>Сумка-шоппер сетчатая оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/399-shopper-setchatyj/</url>
+            <picture>https://braslet-service.ru/upload/iblock/beb/u5rlih9aoie0d49tfr3mqq5arv2f2in9.jpg</picture>
+            <price>455</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_378" available="true">
+            <name>Сумка-шоппер из TYVEK оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/401-sumka-shopper-iz-tyvek/</url>
+            <picture>https://braslet-service.ru/upload/iblock/dd1/nv2hwps9c5me8q8qgwd62i0oljfylph5.jpg</picture>
+            <price>625</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_379" available="true">
+            <name>Сумка-шоппер из войлока оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/400-sumka-shopper-iz-vojloka/</url>
+            <picture>https://braslet-service.ru/upload/iblock/41a/pk91lqofr7z0rrcwwfinu4w59w0uc7zq.jpg</picture>
+            <price>475</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_380" available="true">
+            <name>Сумка-шоппер из фольгированного спанбонда оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/402-sumka-shopper-iz-folgirovannogo-spanbonda/</url>
+            <picture>https://braslet-service.ru/upload/iblock/16c/13swn96sut10ng5cik0wkl649irw76c2.jpg</picture>
+            <price>245</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_381" available="true">
+            <name>Сумка-шоппер из джута оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/403-sumka-shopper-iz-dzhuta/</url>
+            <picture>https://braslet-service.ru/upload/iblock/11d/v7k8htf2irh0mic3csxze5dnvfwpv12l.jpg</picture>
+            <price>485</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_100" available="true">
+            <name>Сумка-шоппер (290 гр/м2) оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/197-shoppery-tkanevye/</url>
+            <picture>https://braslet-service.ru/upload/iblock/1d3/o93t7oh2kus2tpqi5k0yb9px6h6b2i34.jpg</picture>
+            <price>160</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_104" available="true">
+            <name>Сумка-шоппер (290 гр/м2) с DTF-печатью оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/267-sumka-shopper-290-gr-m2-s-dtf-pechatju/</url>
+            <picture>https://braslet-service.ru/upload/iblock/844/4tsahn1n0216wre1lh0n6i2to2vrbt3e.jpg</picture>
+            <price>160</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_109" available="true">
+            <name>Сумка-шоппер из спанбонда (370мм * 320мм) оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/323-shopper-iz-spanbonda-370mm320mm/</url>
+            <picture>https://braslet-service.ru/upload/iblock/f94/la5imphbif2q8f1n41sthw1qfzbsgn5h.jpg</picture>
+            <price>48</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_112" available="true">
+            <name>Сумка-шоппер из спанбонда (325мм * 240мм * 70мм) оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/318-sumka-iz-spanbonda-325mm240mm70mm/</url>
+            <picture>https://braslet-service.ru/upload/iblock/886/7sgfizi2a3ujuqwdu1uq359y3k502zcb.jpg</picture>
+            <price>55</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_113" available="true">
+            <name>Сумка-шоппер  из спанбонда (330мм * 380мм * 100мм) оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/322-sumka-iz-spanbonda-330mm380mm100mm/</url>
+            <picture>https://braslet-service.ru/upload/iblock/1a9/e0wb6t0pvuwlmm5iz4515pw9za0rfqtt.jpg</picture>
+            <price>65</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_108" available="true">
+            <name>Сумка-шоппер с кнопкой (290 гр/м2) оптом</name>
+            <categoryId>3</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/198-shoppery-tkanevye-s-knopkoj/</url>
+            <picture>https://braslet-service.ru/upload/iblock/046/qt2g6aa11ni8ql5i87as734wzyjoz741.jpg</picture>
+            <price>160</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_874" available="true">
+            <name>Зонт из светоотражающей ткани оптом</name>
+            <categoryId>4</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/zont-iz-svetootrazhayushchey-tkani/</url>
+            <picture>https://braslet-service.ru/upload/iblock/0be/45fgepxgy5j8i0zjfu62o8hkfshseesf.jpg</picture>
+            <price>1950</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_746" available="true">
+            <name>Зонт-трость прозрачный оптом</name>
+            <categoryId>4</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/zont-trost-prozrachnyy/</url>
+            <picture>https://braslet-service.ru/upload/iblock/2c5/c1pa2w1ipb076v1lt4fxl7hcdhnj7ivd.jpg</picture>
+            <price>850</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_628" available="true">
+            <name>Зонт-складной с полноцветной заливкой (индивидуальный дизайн) оптом</name>
+            <categoryId>4</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/511-zont-skladnoj/</url>
+            <picture>https://braslet-service.ru/upload/iblock/fb6/3v989jhm1gf25g8yftol7grl62d06s0x.jpg</picture>
+            <price>850</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_436" available="true">
+            <name>Зонт с полноцветной заливкой (индивидуальный дизайн) оптом</name>
+            <categoryId>4</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/464-zont-s-polnocvetnoj-zalivkoj-individualnyj-dizajn/</url>
+            <picture>https://braslet-service.ru/upload/iblock/94a/wfg0h2hxccz4hl39miooo811yev70lj8.jpg</picture>
+            <price>850</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_294" available="true">
+            <name>Зонт-трость оптом</name>
+            <categoryId>4</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/381-zont-trost/</url>
+            <picture>https://braslet-service.ru/upload/iblock/56b/5rmkm40av1kc28lty2o0bddcg1xsjlqt.jpg</picture>
+            <price>690</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_82" available="true">
+            <name>Брелок-ремувка с кольцом (DTF-печать) оптом</name>
+            <categoryId>5</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/268-brelok-remuvka-s-kolcom-dtf-pechat/</url>
+            <picture>https://braslet-service.ru/upload/iblock/012/758vr9qweaf194uvxtc9x0m67zg41oww.jpg</picture>
+            <price>58</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_83" available="true">
+            <name>Брелок-ремувка с карабином (DTF-печать) оптом</name>
+            <categoryId>5</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/269-brelok-remuvka-s-karabinom-dtf-pechat/</url>
+            <picture>https://braslet-service.ru/upload/iblock/cc5/oavukxg2iynnldwjefan04xtqhqyqm6p.jpg</picture>
+            <price>73</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_96" available="true">
+            <name>Брелок-ремувка с карабином оптом</name>
+            <categoryId>5</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/199-remuvki-s-karabinom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/922/h0e4flwt1h86idor6hi607twsvm2d3zw.jpg</picture>
+            <price>73</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_99" available="true">
+            <name>Брелок-ремувка с кольцом оптом</name>
+            <categoryId>5</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/167-brelok-remuvka-s-logotipom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/f10/ghqm7m71bow40tge5livcfnt14p5u2r7.jpg</picture>
+            <price>58</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_273" available="true">
+            <name>Брелок-ремувка &quot;Custom&quot; с индивидуальным дизайном оптом</name>
+            <categoryId>5</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/329-brelok-remuvka-custom-s-individualnym-dizajnom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/b2a/f40z4va290rtxj0a330i8r7hhdqdua5w.jpg</picture>
+            <price>140</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_915" available="true">
+            <name>Внешний аккумулятор с проводами на 20000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-s-provodami-i-indikatorom-zaryada-na-20000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/4ec/18ow7cbyh1o8uqkc963fg0duzr400v12.jpg</picture>
+            <price>1620</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_916" available="true">
+            <name>Внешний аккумулятор на 10000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-s-vydvigayushchimisya-provodami-i-indikatorom-zaryada-na-10000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/d10/lrjbo52uwpx1q7d2opfmxsgjzrjri3uo.jpg</picture>
+            <price>1640</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_868" available="true">
+            <name>Внешний аккумулятор на 10000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-na-10000-mah-mini-s-indikatorom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/8cc/t55tgotbjg9xtqlg3z23mguguf51yb2q.jpg</picture>
+            <price>1540</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_862" available="true">
+            <name>Лампа левитирующая с беспроводной зарядкой оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/lampa-levitiruyushchaya-s-besprovodnoy-zaryadkoy/</url>
+            <picture>https://braslet-service.ru/upload/resize_cache/iblock/a27/1500_1500_1/qzhvtqahcac1lzt74qswtkrlcibtw60a.jpg</picture>
+            <price>6400</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_864" available="true">
+            <name>Внешний аккумулятор на 20000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-na-20000-mah-s-kruglym-indikatorom-zaryada/</url>
+            <picture>https://braslet-service.ru/upload/iblock/a3f/4q7fwnnw8ms3wiqoi80jw24f3ow2q7wc.jpg</picture>
+            <price>1690</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_812" available="true">
+            <name>Внешний аккумулятор на 10000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-mp01-na-10000-mah-s-magsafe-s-zaryadkoy-dlya-smart-chasov/</url>
+            <picture>https://braslet-service.ru/upload/resize_cache/iblock/a10/1500_1500_1/7e0ooko3ddh4vc7puyw8q1hz3i133h28.jpg</picture>
+            <price>2790</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_803" available="true">
+            <name>Внешний аккумулятор на 10000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-l2b-na-10000-mah-s-magsafe/</url>
+            <picture>https://braslet-service.ru/upload/iblock/125/vpjktdipyqk4o0xkn3at4jrz0jfljoso.jpg</picture>
+            <price>2380</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_804" available="true">
+            <name>Внешний аккумулятор на 10000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/vneshniy-akkumulyator-ym107-na-10000-mah-s-magsafe/</url>
+            <picture>https://braslet-service.ru/upload/iblock/1ee/d1xu3btrbulzq42tfzo3bwheuwrcgf9s.jpg</picture>
+            <price>2270</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_742" available="true">
+            <name>Внешний аккумулятор &quot;Вольт&quot; на 5000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/poverbank-volt-na-5000-mah-s-magsafe-polnotsvetnaya-zalivka/</url>
+            <picture>https://braslet-service.ru/upload/iblock/d8d/sargt97povt3562bte9eycoezfntgzvl.jpg</picture>
+            <price>2220</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_740" available="true">
+            <name>Внешний аккумулятор &quot;Вольт&quot; на 10000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/poverbank-volt-na-10000-mah-s-magsafe/</url>
+            <picture>https://braslet-service.ru/upload/iblock/4e6/jnu2qvonr9c452xg8sibs88z7zsc3mvc.jpg</picture>
+            <price>2320</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_745" available="true">
+            <name>Внешний аккумулятор &quot;Вольт&quot; на 5000 mah с MagSafe оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/poverbank-volt-na-5000-mah-s-magsafe/</url>
+            <picture>https://braslet-service.ru/upload/iblock/f45/rtc5usgaao2oneuj6pu3qczqj0g277ey.jpg</picture>
+            <price>1920</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_446" available="true">
+            <name>Внешний аккумулятор БЛИК с подсветкой логотипа, на 5000 mah, оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/476-vneshnij-akkumuljator-s-podsvetkoj-logotipa-5000/</url>
+            <picture>https://braslet-service.ru/upload/iblock/9f0/vw62bmp76c7vkldgkpvulodxztc4d5me.jpg</picture>
+            <price>1440</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_448" available="true">
+            <name>Внешний аккумулятор БЛИК с подсветкой логотипа, 10000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/479-vneshnij-akkumuljator-blik-s-podsvetkoj-logotipa-10000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/330/w4gv9qp3isoig1uq97fcum6f3siiji7d.jpg</picture>
+            <price>1505</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_474" available="true">
+            <name>Внешний аккумулятор АУРА с подсветкой логотипа, 5000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/478-vneshnij-akkumuljator-aura-s-podsvetkoj-logotipa-5000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/4a2/zhnumgprqj551o8gwaxgk1vv0xi71w2q.jpg</picture>
+            <price>1440</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_437" available="true">
+            <name>Внешний аккумулятор на 10000 mah с подсветкой логотипа оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/472-vneshnij-akkumuljator-na-10000-mah-s-podsvetkoj-logotipa-i-vstroennymi-provodami/</url>
+            <picture>https://braslet-service.ru/upload/iblock/f2d/y1erkjv48il5v7hx562tnu4qlhui0d0o.jpg</picture>
+            <price>1555</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_114" available="true">
+            <name>Внешний аккумулятор &quot;Компакт&quot; на 3000 mAh оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/308-vneshnij-akkumuljator-kompakt-3000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/769/vmne81gee846guutg7k35qbz6partefl.jpg</picture>
+            <price>345</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_365" available="true">
+            <name>Внешний аккумулятор для ноутбука на 20 000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/390-vneshnij-akkumuljator-na-20-000-mah-s-zarjadkoj-do-100w/</url>
+            <picture>https://braslet-service.ru/upload/iblock/d68/vgubl1uzyw63vjyw9ado1jzg9wd9qsd1.jpg</picture>
+            <price>3800</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_366" available="true">
+            <name>Внешний аккумулятор для ноутбука на 30 000 mah оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/391-vneshnij-akkumuljator-dlja-noutbuka-na-30000-mah-s-zarjadkoj-do-100w/</url>
+            <picture>https://braslet-service.ru/upload/iblock/181/wi67y1apjldyv07ld1it1p5004weozm6.jpg</picture>
+            <price>4200</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_115" available="true">
+            <name>Внешний аккумулятор &quot;Квадро&quot;на 7500 mAh оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/309-vneshnij-akkumuljator-kvadro-7000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/6fc/co4yok76b31lx8unt9neh24ccz563zt1.jpg</picture>
+            <price>825</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_116" available="true">
+            <name>Внешний аккумулятор PB260 на 10 000 mAh со встроенными проводами оптом</name>
+            <categoryId>6</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/306-poverbanki-s-vyhodami-i-podstavkoj-dlja-gadzhetov-na-10-000-mah/</url>
+            <picture>https://braslet-service.ru/upload/iblock/f11/felxsgvswvo24g1x8h970h54vnh5cjwq.jpg</picture>
+            <price>890</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_409" available="true">
+            <name>Картхолдер из экокожи с MagSafe для смартфона оптом</name>
+            <categoryId>7</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/422-kartholder-iz-jekokozhi-s-magsafe-dlja-smartfona/</url>
+            <picture>https://braslet-service.ru/upload/iblock/dc3/vp7x6uh8ew08pxat03u4tq9p09k8obma.jpg</picture>
+            <price>245</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_412" available="true">
+            <name>Картхолдер из экокожи с MagSafe для смартфона с подставкой/держателем оптом</name>
+            <categoryId>7</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/431-kartholder-iz-jekokozhi-s-magsafe-dlja-smartfona-s-podstavkoj-derzhatelem/</url>
+            <picture>https://braslet-service.ru/upload/iblock/5cb/qvpyar4nmsyg0yoz45a7gr4vs40btq7i.jpg</picture>
+            <price>355</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_270" available="true">
+            <name>Картхолдер из экокожи &quot;Wallet&quot; оптом</name>
+            <categoryId>7</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/327-kartholder-iz-jekokozhi-wallet/</url>
+            <picture>https://braslet-service.ru/upload/iblock/8ba/78t8hbmdirjgvt19iizw0f3fofuhg702.jpg</picture>
+            <price>345</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_261" available="true">
+            <name>Картхолдер из пробки оптом</name>
+            <categoryId>7</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/333-kartholdery-iz-probki/</url>
+            <picture>https://braslet-service.ru/upload/iblock/2ac/2uq72obraekzciw3681m8rhhl28qn9gx.jpg</picture>
+            <price>295</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_482" available="true">
+            <name>Картхолдер силиконовый на телефон оптом</name>
+            <categoryId>7</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/106-silikonovyj-karmashek-dlja-kart/</url>
+            <picture>https://braslet-service.ru/upload/iblock/130/es90a1pv90j8y9m6ow1za3os503olu58.jpg</picture>
+            <price>54</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_55" available="true">
+            <name>Силиконовые браслеты с шелкографией оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/8-braslety-s-naneseniem-logotipa-shelkografija/</url>
+            <picture>https://braslet-service.ru/upload/iblock/01a/dpe0552n9ko9m1847ktsmylfg5h2l1ye.jpg</picture>
+            <price>17</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_941" available="true">
+            <name>Силиконовые браслеты к 9 мая (шелкография) оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/silikonovye-braslety-k-9-maya-shelkografiya/</url>
+            <picture>https://braslet-service.ru/upload/iblock/d12/2stapa34as1p0xfe6w5yuq993p4dfujz.jpg</picture>
+            <price>17</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_56" available="true">
+            <name>Силиконовые браслеты с выпуклым и прокрашенным логотипом оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/11-braslety-s-vypuklym-i-prokrashennym-logotipom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/1ca/mlo904copl1tf56d53pup9cjsb6xg680.jpg</picture>
+            <price>39</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_58" available="true">
+            <name>Силиконовые браслеты с вдавленным и прокрашенным логотипом оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/10-braslety-s-vdavlennym-i-prokrashennym-logotipom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/8f6/swqbn35gqn5oqy29zgizqpqhz2g0yzyj.jpg</picture>
+            <price>28</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_59" available="true">
+            <name>Силиконовые браслеты с вдавленным логотипом оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/9-braslety-s-vdavlennym-ili-vypuklym-logotipom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/207/ov9q1i8130s1jdoye3bmgu9v9ziks0an.jpg</picture>
+            <price>26</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_60" available="true">
+            <name>Силиконовые браслеты с выпуклым логотипом оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/100-s-vypuklym-logotipom/</url>
+            <picture>https://braslet-service.ru/upload/iblock/375/wtorircs9r31zh8mhocs30gdjoyg950u.jpg</picture>
+            <price>26</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_61" available="true">
+            <name>Силиконовые браслеты без нанесения логотипа оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/13-silikonovye-braslety-bez-nanesenija-pustye/</url>
+            <picture>https://braslet-service.ru/upload/iblock/bd7/og16hsobdxxgz1vtr2yf9jye779317ov.jpg</picture>
+            <price>17</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_62" available="true">
+            <name>Силиконовые браслеты с диспенсером для антисептика оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/113-model-bs02/</url>
+            <picture>https://braslet-service.ru/upload/iblock/607/j6rj914ld0cr797jrrexqedckef8wh3j.jpg</picture>
+            <price>79</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_64" available="true">
+            <name>Силиконовые браслеты для ключей оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/12-silikonovye-braslety-dlja-kljuchej-braslet-kolechko-nanesenie-logotipa-numeracija/</url>
+            <picture>https://braslet-service.ru/upload/iblock/2fa/5bfoh1avm1e62oxbv3m647ci5w3b5ne6.jpg</picture>
+            <price>38</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_66" available="true">
+            <name>Силиконовые браслеты-номерки оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/93-braslety-nomerki/</url>
+            <picture>https://braslet-service.ru/upload/iblock/ed9/2yjp5ngxyc2gich6q20opzlqpcwpw082.jpg</picture>
+            <price>35</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_67" available="true">
+            <name>Силиконовые браслеты триколор с нанесением шелкографией оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/50-silikonovyj-braslet-trikolor-shelkografija/</url>
+            <picture>https://braslet-service.ru/upload/iblock/a0e/mvmuv1ixbopwsulajvo53k7oovr6ucie.jpg</picture>
+            <price>21</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_68" available="true">
+            <name>Браслет-брелок силиконовый с логотипом оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/39-braslety-breloki-s-shelkografiei/</url>
+            <picture>https://braslet-service.ru/upload/iblock/86f/m6c812mrlhl7rvb1ws49kkbq1milborl.jpg</picture>
+            <price>26</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_698" available="true">
+            <name>Силиконовые браслеты для джибитсов оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/330-silikonovye-braslety-dlja-dzhibitsov/</url>
+            <picture>https://braslet-service.ru/upload/iblock/e10/yubeo62p6qc04lu6ryk142tvh0bogltp.jpg</picture>
+            <price>52</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_468" available="true">
+            <name>Силиконовые браслеты для ключей BS оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/14-braslety-dlja-kljuchej/</url>
+            <picture>https://braslet-service.ru/upload/iblock/32d/pr02antwmoowh9dkyuiep2tvyp197o02.jpg</picture>
+            <price>96</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+         <offer id="bx_3966226736_795" available="true">
+            <name>Силиконовые браслеты светонакопительные оптом</name>
+            <categoryId>8</categoryId>
+            <url>https://braslet-service.ru/katalog-produkcii/silikonovye-braslety-cdtnjyfrjgbntkmyst/</url>
+            <picture>https://braslet-service.ru/upload/resize_cache/iblock/d3b/1500_1500_1/tqs3dhl1oufrsun3ytql74kglwwhbnx7.jpg</picture>
+            <price>21</price>
+            <currencyId>RUB</currencyId>
+            <description>Изделие изготавливается под заказ с возможностью нанесения логотипа. Оптовое предложение. Индивидуальные условия, сроки и стоимость рассчитываются в зависимости от параметров заказа.</description>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
