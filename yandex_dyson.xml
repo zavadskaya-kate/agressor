@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-03-06 15:01">
+<yml_catalog date="2025-04-11 13:43">
    <shop>
       <url>https://shop-dyson.kz</url>
       <name>Продукция DYSON</name>
@@ -21,7 +21,7 @@
             <picture>https://shop-dyson.kz/assets/images/products/1270/asset-mms-105933366.webp</picture>
             <price>229990</price>
             <currencyId>KZT</currencyId>
-            <description>До 40 минут работы. Подходит для всех типов напольных покрытий. Уборка различных поверхностей в доме — от пола и до потолка. Не требует смены фильтров. Выпускает чистый воздух при работе, подходит для людей, склонным к аллергии.</description>
+            <description>До 40 минут работы. Подходит для всех типов напольных покрытий. Уборка различных поверхностей в доме — от пола и до потолка. Не требует смены фильтров. Выпускает чистый воздух при работе, подходит для людей склонным к аллергии.</description>
          </offer>
          <offer id="448883-01" available="true">
             <name>Беспроводной пылесос Dyson V10 Absolute</name>
@@ -57,7 +57,7 @@
             <picture>https://shop-dyson.kz/assets/images/products/1277/3066575.jpeg</picture>
             <price>499990</price>
             <currencyId>KZT</currencyId>
-            <description>Лазерный луч выявляет микроскопическую пыль. Автоматически адаптирует мощность всасывания. Научное подтверждение глубокой очистки. До 60 мин. непрерывной работы.</description>
+            <description>Лазерный луч выявляет микроскопическую пыль, автоматически адаптирует мощность всасывания. Научное подтверждение глубокой очистки. До 60 мин. работы.</description>
          </offer>
          <offer id="446989-01" available="true">
             <name>Беспроводной пылесос Dyson Gen5detect</name>
@@ -69,7 +69,7 @@
             <description>Мощный интеллектуальный беспроводной пылесос. До 70 минут непрерывной работы. 5 насадок + док-станция.</description>
          </offer>
          <offer id="448798-01" available="true">
-            <name>Беспроводной пылесос с влажной уборкой Dyson V15s Detect Submarine</name>
+            <name>Беспроводной пылесос Dyson V15s Detect Submarine</name>
             <categoryId>1</categoryId>
             <url>https://shop-dyson.kz/pyilesosyi-moyushhie/moyushhij-besprovodnoj-pyilesos-dyson-v15s-detect-submarine</url>
             <picture>https://shop-dyson.kz/assets/images/products/1231/v15s-sub.jpeg</picture>
@@ -96,16 +96,17 @@
             <description>Мощная и гигиеничная очистка твердых полов. Удаляет как влажные, так и сухие загрязнения за один проход. Обеспечивает полное мытье твердых поверхностей чистой водой с начала до конца.</description>
          </offer>
          <offer id="408202-01" available="true">
-            <name>Выпрямитель Dyson Airstrait™</name>
+            <name>Выпрямитель Dyson Airstrait™ никель/медный</name>
             <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-mednyij/nikel</url>
+            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-mednyij/nikel
+</url>
             <picture>https://shop-dyson.kz/assets/images/products/1323/401292-01.png</picture>
             <price>289990</price>
             <currencyId>KZT</currencyId>
             <description>Выпрямитель для влажной и сухой укладки - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
          </offer>
          <offer id="534040-01" available="true">
-            <name>Выпрямитель Dyson Airstrait™ HT01 черный</name>
+            <name>Выпрямитель Dyson Airstrait™ HT01</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-oniks-chernoe/zoloto</url>
             <picture>https://shop-dyson.kz/assets/images/products/1445/onyx-ht01-40.png</picture>
@@ -114,9 +115,12 @@
             <description>Выпрямитель для влажной и сухой укладки - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
          </offer>
          <offer id="515276-01" available="true">
-            <name>Фен Dyson Supersonic Nural™ HD16 керамическая</name>
+            <name>Фен Dyson Supersonic Nural™ HD16</name>
             <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/fen-dyson-supersonic-nural-hd16-keramicheskaya-patina/topaz</url>
+            <url>https://shop-dyson.kz/fen-dyson-supersonic-nural-hd16-keramicheskaya-patina/topaz
+
+
+</url>
             <picture>https://shop-dyson.kz/assets/images/products/1337/d1-ss-nural-pdp-1x1.jpg</picture>
             <price>279990</price>
             <currencyId>KZT</currencyId>
@@ -134,23 +138,27 @@
          <offer id="389922-01" available="true">
             <name>Фен Dyson HD07 Supersonic медный</name>
             <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/fen-dyson-hd07-supersonic-mednyij</url>
+            <url>https://shop-dyson.kz/fen-dyson-hd07-supersonic-mednyij
+
+</url>
             <picture>https://shop-dyson.kz/assets/images/products/535/389922-01.jpg</picture>
             <price>229990</price>
             <currencyId>KZT</currencyId>
             <description>Мощный и компактный фен поможет быстро высушить волосы, создать повседневную или вечернюю укладку. С ним вы легко выпрямите локоны, сделаете легкие волны, создадите дополнительный объем у корней или завьете кончики.</description>
          </offer>
          <offer id="389910-01" available="true">
-            <name>Фен Dyson Supersonic™ HD07 синий/золото</name>
+            <name>Фен Dyson Supersonic™ HD07</name>
             <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/fen-dyson-supersonic-hd07-sinij/zoloto</url>
+            <url>https://shop-dyson.kz/fen-dyson-supersonic-hd07-sinij/zoloto
+
+</url>
             <picture>https://shop-dyson.kz/assets/images/products/1230/389910-01.png</picture>
             <price>279990</price>
             <currencyId>KZT</currencyId>
             <description>Фен из 23,75-каратного золота. Пять насадок для укладки, включая насадку для непослушных волос. Интеллектуальная система контроля температуры исходящего воздуха. Мощный двигатель с цифровым управлением Dyson V9.</description>
          </offer>
          <offer id="412525-01" available="true">
-            <name>Фен Dyson HD07 Supersonic с чехлом синий/медь</name>
+            <name>Фен Dyson HD07 Supersonic с чехлом</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/fen-dyson-hd07-supersonic-sinij-s-chexlom</url>
             <picture>https://shop-dyson.kz/assets/images/products/1226/412522-01.png.jpeg</picture>
@@ -159,25 +167,27 @@
             <description>Мощный и компактный фен поможет быстро высушить волосы, создать повседневную или вечернюю укладку. С ним вы легко выпрямите локоны, сделаете легкие волны, создадите дополнительный объем у корней или завьете кончики.</description>
          </offer>
          <offer id="460555-01" available="true">
-            <name>Фен Dyson Supersonic™ HD07 синий/румянец</name>
+            <name>Фен Dyson Supersonic™ HD07</name>
             <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/fen-dyson-supersonic-hd07-sinij/rozovyij</url>
+            <url>https://shop-dyson.kz/fen-dyson-supersonic-hd07-sinij/rozovyij
+
+</url>
             <picture>https://shop-dyson.kz/assets/images/products/1289/460555-01.png</picture>
             <price>259990</price>
             <currencyId>KZT</currencyId>
             <description>Мощный и компактный фен поможет быстро высушить волосы, создать повседневную или вечернюю укладку. С ним вы легко выпрямите локоны, сделаете легкие волны, создадите дополнительный объем у корней или завьете кончики.</description>
          </offer>
          <offer id="534017-01" available="true">
-            <name>Фен Dyson Supersonic™ HD07 черный оникс/золото</name>
+            <name>Фен Dyson Supersonic™ HD07</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/dyson-supersonic-onyx-black/gold</url>
             <picture>https://shop-dyson.kz/assets/images/products/1464/hd07-1-onyx.png</picture>
-            <price>259990</price>
+            <price>229990</price>
             <currencyId>KZT</currencyId>
             <description>Лимитированная коллекция. Пять насадок для укладки, включая новую насадку для непослушных волос. Интеллектуальная система контроля температуры исходящего воздуха.</description>
          </offer>
          <offer id="379491-01" available="true">
-            <name>Увлажнитель - очиститель воздуха Dyson Purifier Humidify</name>
+            <name>Увлажнитель - очиститель воздуха Dyson PH04</name>
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/uvlazhnitel-ochistitel-vozduxa-dyson-purifier-humidify-cool-formaldehyde-ph04-1029</url>
             <picture>https://shop-dyson.kz/assets/images/products/1029/0f22e757-90c1-11ed-8b89-d89d6713f9eb.jpeg</picture>
@@ -228,7 +238,7 @@
             <picture>https://shop-dyson.kz/assets/images/products/1067/dyson-airblade-v-1.jpg</picture>
             <price>599990</price>
             <currencyId>KZT</currencyId>
-            <description>Гигиеничная сушилка для рук теперь на 35% тише* Удостоена знака Quiet Mark. Фильтры HEPA улавливают из воздуха до 99,95% частиц размером с бактерию.</description>
+            <description>Гигиеничная сушилка для рук теперь на 35% тише. Удостоена знака Quiet Mark. Фильтры HEPA улавливают из воздуха до 99,95% частиц размером с бактерию.</description>
          </offer>
          <offer id="245265-01" available="true">
             <name>Смеситель c сушилкой Dyson Airblade Wash+Dry WD04</name>
@@ -258,10 +268,10 @@
             <description>Мойте и высушивайте руки прямо над раковиной. Никакой воды на полу. С технологией Airblade, интегрированной в смеситель, руки можно высушить прямо над раковиной всего за 14 секунд.</description>
          </offer>
          <offer id="522266-01" available="true">
-            <name>Фен Dyson HD18 Supersonic r™ Pro</name>
+            <name>Фен Dyson HD18 Supersonic r™ Pro синий/топаз</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/fen-dyson-hd18-supersonic-r-pro-sinij-vink/topaz-1478</url>
-            <picture>https://shop-dyson.kz/assets/cache_image/products/1478/87356-fin2-900x900_550x550_29b.png</picture>
+            <picture>https://shop-dyson.kz/assets/images/products/1478/87356-fin2-900x900.png</picture>
             <price>279990</price>
             <currencyId>KZT</currencyId>
             <description>Разработано специально для салонов. Равномерно нагревает мощный воздушный поток. Отсутствие тепловых повреждений для сохранения естественного блеска волос. Интеллектуальное оборудование с индивидуальным диапазоном расхода воздуха и температуры.</description>
@@ -274,6 +284,52 @@
             <price>349990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
+         </offer>
+         <offer id="599021-01" available="true">
+            <name>Стайлер Dyson Airwrap id™ HS08 для разных типов волос</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/stajler-dyson-airwrap-id-hs08-straightwavy-slivovyij-1512</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1512/298793-01-gallery-img-4-kopiya-(1)_550x550_34b.jpg</picture>
+            <price>349990</price>
+            <currencyId>KZT</currencyId>
+            <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
+         </offer>
+         <offer id="533736-01" available="true">
+            <name>Стайлер Dyson Airwrap id™ HS08 для разных типов волос</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/stajler-dyson-airwrap-id-hs08-curlycoily-patina/topaz-1511</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1511/te30u0r5v9q1j0l51cs6imj1rp9kmpu4-(1)_550x550_81b.jpeg</picture>
+            <price>349990</price>
+            <currencyId>KZT</currencyId>
+            <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.
+</description>
+         </offer>
+         <offer id="596931-01" available="true">
+            <name>Выпрямитель Dyson Airstrait™ HT01</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-ht01-barxatno-krasnyij/zoloto-1506</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1506/62048.750x0_550x550_34b.jpg</picture>
+            <price>299990</price>
+            <currencyId>KZT</currencyId>
+            <description>Выпрямитель Dyson Airstrait™ для влажной и сухой укладки  - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
+         </offer>
+         <offer id="598960-01" available="true">
+            <name>Выпрямитель Dyson Airstrait™ HT01</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-ht01-rozovaya-keramika/rozovoe-zoloto-1507</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1507/e1-small-gallery-2000x2000_550x550_34b.jpg</picture>
+            <price>289990</price>
+            <currencyId>KZT</currencyId>
+            <description>Выпрямитель Dyson Airstrait™ для влажной и сухой укладки  - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
+         </offer>
+         <offer id="515166-01" available="true">
+            <name>Фен Dyson Supersonic Nural™ HD16</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/fen-dyson-hd16-supersonic-nural-sinij-vink/topaz-1513</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1513/515166-01-971313-03_550x550_29b.png</picture>
+            <price>279990</price>
+            <currencyId>KZT</currencyId>
+            <description>Автоматически адаптируется для улучшения естественного блеска волос и защиты здоровья кожи головы. Быстрая и умная сушка без экстремально высоких температур. Подстраивается под ваши предпочтения в укладке. Пять интеллектуальных насадок для разных типов укладки.</description>
          </offer>
       </offers>
    </shop>
