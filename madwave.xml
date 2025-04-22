@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-04-22 13:57">
+<yml_catalog date="2025-04-22 14:23">
   <shop>
     <url>https://madwave.ru/</url>
     <name>Товары бренда Mad Wave</name>
@@ -19982,7 +19982,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XS</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10032879" available="true">
         <name>Костюмы соревновательные SwimRun (мужчины)</name>
@@ -19996,7 +19995,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">S</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10032880" available="true">
         <name>Костюмы соревновательные SwimRun (мужчины)</name>
@@ -20010,7 +20008,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">M</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10032881" available="true">
         <name>Костюмы соревновательные SwimRun (мужчины)</name>
@@ -20024,7 +20021,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">L</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10032882" available="true">
         <name>Костюмы соревновательные SwimRun (мужчины)</name>
@@ -20038,7 +20034,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XL</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10032883" available="true">
         <name>Костюмы соревновательные SwimRun (мужчины)</name>
@@ -20052,7 +20047,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XXL</param>
-        <param name="Пол">мужской</param>
       </offer>
       <offer id="10021436" available="true">
         <name>Очки для триатлона</name>
@@ -21228,7 +21222,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XS</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10032873" available="true">
         <name>Костюмы соревновательные SwimRun (женщины)</name>
@@ -21242,7 +21235,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">S</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10032874" available="true">
         <name>Костюмы соревновательные SwimRun (женщины)</name>
@@ -21256,7 +21248,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">M</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10032875" available="true">
         <name>Костюмы соревновательные SwimRun (женщины)</name>
@@ -21270,7 +21261,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">L</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10032876" available="true">
         <name>Костюмы соревновательные SwimRun (женщины)</name>
@@ -21284,7 +21274,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XL</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10032877" available="true">
         <name>Костюмы соревновательные SwimRun (женщины)</name>
@@ -21298,7 +21287,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
         <param name="Размер">XXL</param>
-        <param name="Пол">женский</param>
       </offer>
       <offer id="10035141" available="true">
         <name>Неопреновые джаммеры (унисекс)</name>
@@ -21392,32 +21380,6 @@
         <description>Состав: Носовая перемычка: тпээ (термопластичный полиэфирный эластомер ) 100%. Обтюратор: термопластичный эластомер 100%. Ремешок: силикон 100%. Линзы: поликарбонат 100%. Фиксатор: поликарбонат 100%</description>
         <price>2961</price>
         <oldprice>3290</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10036788" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya/dynamix-mirror?sku=10036788</url>
-        <picture>https://madwave.ru/images/large/pic_1/10036788.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10036788" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya/dynamix-mirror?sku=10036788</url>
-        <picture>https://madwave.ru/images/large/pic_1/10036788.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
@@ -21600,32 +21562,6 @@
         <description>Состав: Носовая перемычка: термопластичный эластомер 100%. Обтюратор: силикон 100%. Ремешок: силикон 100%. Линзы: поликарбонат 100%. Фиксатор: поликарбонат 100%</description>
         <price>891</price>
         <oldprice>990</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Салатовый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10036605" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya/swim-guard?sku=10036605</url>
-        <picture>https://madwave.ru/images/large/pic_1/10036605.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Салатовый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10036605" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya/swim-guard?sku=10036605</url>
-        <picture>https://madwave.ru/images/large/pic_1/10036605.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Салатовый</param>
@@ -21826,32 +21762,6 @@
         <param name="Цвет">Голубой</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10034441" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/aksessuary/ochki/startovye-ochki/forward-mirror-1?sku=10034441</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10034441.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Голубой</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10034441" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/aksessuary/ochki/startovye-ochki/forward-mirror-1?sku=10034441</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10034441.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Голубой</param>
-        <param name="Размер">One size</param>
-      </offer>
       <offer id="10034440" available="true">
         <name>Стартовые очки</name>
         <categoryId>3</categoryId>
@@ -22042,32 +21952,6 @@
         <description>Состав: Обтюратор: термопластичная резина 100%. Ремешок: силикон 100%. Линзы: поликарбонат 100%. Фиксатор: поликарбонат 100%</description>
         <price>1971</price>
         <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10029941" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya-yuniorskie/spin-rainbow?sku=10029941</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10029941.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10029941" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/aksessuary/ochki/ochki-dlya-plavaniya-yuniorskie/spin-rainbow?sku=10029941</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10029941.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
@@ -22523,32 +22407,6 @@
         <description>Состав: нейлон 80%, эва 20%</description>
         <price>531</price>
         <oldprice>590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">Adult Big</param>
-      </offer>
-      <offer id="10025416" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/ochki-dlya-plavaniya/aksessuary-dlya-ochkov/futlyar-dlya-plavatelnyh-ochkov/mesh-pouch-big?sku=10025416</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10025416.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">Adult Big</param>
-      </offer>
-      <offer id="10025416" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://www.madwave.ru/catalog/ochki-dlya-plavaniya/aksessuary-dlya-ochkov/futlyar-dlya-plavatelnyh-ochkov/mesh-pouch-big?sku=10025416</url>
-        <picture>https://www.madwave.ru/images/large/pic_1/10025416.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
@@ -23074,19 +22932,6 @@
         <param name="Цвет">Желтый</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10021452" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/trenirovochnye-ochki/honey-mirror?sku=10021452</url>
-        <picture>https://madwave.ru/images/large/pic_1/10021452.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Желтый</param>
-        <param name="Размер">One size</param>
-      </offer>
       <offer id="10021449" available="true">
         <name>Очки для плавания</name>
         <categoryId>3</categoryId>
@@ -23594,32 +23439,6 @@
         <param name="Цвет">Розовый</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10034133" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/aqua-rainbow?sku=10034133</url>
-        <picture>https://madwave.ru/images/large/pic_1/10034133.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10034133" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/aqua-rainbow?sku=10034133</url>
-        <picture>https://madwave.ru/images/large/pic_1/10034133.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">One size</param>
-      </offer>
       <offer id="10019071" available="true">
         <name>Очки для плавания юниорские</name>
         <categoryId>3</categoryId>
@@ -23802,32 +23621,6 @@
         <param name="Цвет">Красный</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10034132" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/aqua?sku=10034132</url>
-        <picture>https://madwave.ru/images/large/pic_1/10034132.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Красный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10034132" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/aqua?sku=10034132</url>
-        <picture>https://madwave.ru/images/large/pic_1/10034132.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Красный</param>
-        <param name="Размер">One size</param>
-      </offer>
       <offer id="10014821" available="true">
         <name>Очки для плавания детские</name>
         <categoryId>3</categoryId>
@@ -23992,32 +23785,6 @@
         <description>Состав: Носовая перемычка: поликарбонат 100%. Обтюратор: силикон 100%. Ремешок: силикон 100%. Линзы: поликарбонат 100%. Фиксатор: поликарбонат 100%</description>
         <price>981</price>
         <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Серый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10012611" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/simpler-ii-junior?sku=10012611</url>
-        <picture>https://madwave.ru/images/large/pic_1/10012611.jpg</picture>
-        <description/>
-        <price>2403</price>
-        <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Серый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10012611" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/ochki-dlya-plavaniya/ochki-dlya-plavaniya-yuniorskie/simpler-ii-junior?sku=10012611</url>
-        <picture>https://madwave.ru/images/large/pic_1/10012611.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Серый</param>
@@ -24330,19 +24097,6 @@
         <description/>
         <price>2403</price>
         <oldprice>2670</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10024269" available="true">
-        <name>Стартовые очки</name>
-        <categoryId>3</categoryId>
-        <url>https://madwave.ru/catalog/aksessuary/ochki/aksessuary-dlya-ochkov/optical-visions-set?sku=10024269</url>
-        <picture>https://madwave.ru/images/large/pic_1/10024269.jpg</picture>
-        <description/>
-        <price>3303</price>
-        <oldprice>3670</oldprice>
         <vendor>Mad Wave</vendor>
         <currencyId>RUB</currencyId>
         <param name="Цвет">Черный</param>
@@ -27740,76 +27494,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Зеленый</param>
         <param name="Размер">One size</param>
-      </offer>
-      <offer id="10020238" available="true">
-        <name>Мужские акваноски</name>
-        <categoryId>5</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/noski/splash-1?sku=10020238</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033060.jpg</picture>
-        <description>Состав: Верх: полиамид 80%, эластан 20%. Пятка: полиэстер 50%, сбр 50%. Мысок: полиэстер 50%, сбр 50%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Пол">мужской</param>
-        <param name="Размер">42-43</param>
-      </offer>
-      <offer id="10020239" available="true">
-        <name>Мужские акваноски</name>
-        <categoryId>5</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/noski/splash-1?sku=10020239</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033060.jpg</picture>
-        <description>Состав: Верх: полиамид 80%, эластан 20%. Пятка: полиэстер 50%, сбр 50%. Мысок: полиэстер 50%, сбр 50%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Пол">мужской</param>
-        <param name="Размер">44-45</param>
-      </offer>
-      <offer id="10033058" available="true">
-        <name>Мужские акваноски</name>
-        <categoryId>5</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/noski/splash-1?sku=10033058</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033060.jpg</picture>
-        <description>Состав: Верх: полиамид 80%, эластан 20%. Пятка: полиэстер 50%, сбр 50%. Мысок: полиэстер 50%, сбр 50%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Пол">мужской</param>
-        <param name="Размер">46-47</param>
-      </offer>
-      <offer id="10033059" available="true">
-        <name>Мужские акваноски</name>
-        <categoryId>5</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/noski/splash-1?sku=10033059</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033060.jpg</picture>
-        <description>Состав: Верх: полиамид 80%, эластан 20%. Пятка: полиэстер 50%, сбр 50%. Мысок: полиэстер 50%, сбр 50%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Пол">мужской</param>
-        <param name="Размер">48-49</param>
-      </offer>
-      <offer id="10033060" available="true">
-        <name>Мужские акваноски</name>
-        <categoryId>5</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/noski/splash-1?sku=10033060</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033060.jpg</picture>
-        <description>Состав: Верх: полиамид 80%, эластан 20%. Пятка: полиэстер 50%, сбр 50%. Мысок: полиэстер 50%, сбр 50%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Пол">мужской</param>
-        <param name="Размер">50-51</param>
       </offer>
       <offer id="10023344" available="true">
         <name>Трос латексный</name>
@@ -41565,71 +41249,6 @@
         <param name="Пол">мужской</param>
         <param name="Размер">XXL</param>
       </offer>
-      <offer id="10030258" available="true">
-        <name>Aquanappies</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030258</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">S</param>
-      </offer>
-      <offer id="10030259" available="true">
-        <name>Aquanappies</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030259</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">M</param>
-      </offer>
-      <offer id="10030260" available="true">
-        <name>Aquanappies</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030260</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">L</param>
-      </offer>
-      <offer id="10031218" available="true">
-        <name>Aquanappies</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10031218</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">XS</param>
-      </offer>
-      <offer id="10031219" available="true">
-        <name>Aquanappies</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10031219</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">XL</param>
-      </offer>
       <offer id="10029311" available="true">
         <name>Юниорские плавки-шорты антихлор</name>
         <categoryId>7</categoryId>
@@ -42501,45 +42120,6 @@
         <param name="Пол">мужской</param>
         <param name="Размер">8XL</param>
       </offer>
-      <offer id="10020369" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020369</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">S</param>
-      </offer>
-      <offer id="10020371" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020371</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">M</param>
-      </offer>
-      <offer id="10020373" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>7</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020373</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">L</param>
-      </offer>
       <offer id="10018210" available="true">
         <name>Юниорские плавки</name>
         <categoryId>7</categoryId>
@@ -42938,110 +42518,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Белый</param>
         <param name="Размер">One size</param>
-      </offer>
-      <offer id="10030258" available="true">
-        <name>Aquanappies</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030258</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">S</param>
-      </offer>
-      <offer id="10030259" available="true">
-        <name>Aquanappies</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030259</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">M</param>
-      </offer>
-      <offer id="10030260" available="true">
-        <name>Aquanappies</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10030260</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">L</param>
-      </offer>
-      <offer id="10031218" available="true">
-        <name>Aquanappies</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10031218</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">XS</param>
-      </offer>
-      <offer id="10031219" available="true">
-        <name>Aquanappies</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/aquanappies?sku=10031219</url>
-        <picture>https://madwave.ru/images/large/pic_1/10031219.jpg</picture>
-        <description>Состав: Ткань Верха: неопрен 100%. Ткань Подкладки: полиэстер 80%, эластан 20%</description>
-        <price>1431</price>
-        <oldprice>1590</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Синий</param>
-        <param name="Размер">XL</param>
-      </offer>
-      <offer id="10020369" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020369</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">S</param>
-      </offer>
-      <offer id="10020371" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020371</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">M</param>
-      </offer>
-      <offer id="10020373" available="true">
-        <name>Kids swimsuit</name>
-        <categoryId>8</categoryId>
-        <url>https://madwave.ru/catalog/tekstil-sportivnoe-plavanie/mad-bubbles-1?sku=10020373</url>
-        <picture>https://madwave.ru/images/large/pic_1/10020373.jpg</picture>
-        <description>Состав: полиэстер 50%, нейлон 50%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Розовый</param>
-        <param name="Размер">L</param>
       </offer>
       <offer id="10035611" available="true">
         <name>Детские тапочки</name>
@@ -44478,32 +43954,6 @@
         <param name="Цвет">Синий</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10032489" available="true">
-        <name>Кепка</name>
-        <categoryId>11</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/suvenirnaya-produkciya/visor?sku=10032489</url>
-        <picture>https://madwave.ru/images/large/pic_1/10032489.jpg</picture>
-        <description>Состав: полиэстер 100%</description>
-        <price>2241</price>
-        <oldprice>2490</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Белый</param>
-        <param name="Размер">One size</param>
-      </offer>
-      <offer id="10032487" available="true">
-        <name>Кепка</name>
-        <categoryId>11</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/suvenirnaya-produkciya/running-cap?sku=10032487</url>
-        <picture>https://madwave.ru/images/large/pic_1/10032487.jpg</picture>
-        <description>Состав: полиэстер 100%</description>
-        <price>2241</price>
-        <oldprice>2490</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Белый</param>
-        <param name="Размер">One size</param>
-      </offer>
       <offer id="10031027" available="true">
         <name>Пакеты</name>
         <categoryId>11</categoryId>
@@ -45284,71 +44734,6 @@
         <param name="Цвет">Голубой</param>
         <param name="Размер">One size</param>
       </offer>
-      <offer id="10033199" available="true">
-        <name>Бутылка для воды</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-fitnesa/ultrasoft-flask?sku=10033199</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033204.jpg</picture>
-        <description>Состав: Бутылка: термопластичный полиуретан 100%. Защитная крышка: полипропилен 100%. Питьевой Клапан: силикон 100%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Зеленый</param>
-        <param name="Размер">500 ml</param>
-      </offer>
-      <offer id="10033204" available="true">
-        <name>Бутылка для воды</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-fitnesa/ultrasoft-flask?sku=10033204</url>
-        <picture>https://madwave.ru/images/large/pic_1/10033204.jpg</picture>
-        <description>Состав: Бутылка: термопластичный полиуретан 100%. Защитная крышка: полипропилен 100%. Питьевой Клапан: силикон 100%</description>
-        <price>981</price>
-        <oldprice>1090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Зеленый</param>
-        <param name="Размер">250 ml</param>
-      </offer>
-      <offer id="10030947" available="true">
-        <name>Секундомер</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-fitnesa/stopwatch-sw-500-memory?sku=10030947</url>
-        <picture>https://madwave.ru/images/large/pic_1/10030947.jpg</picture>
-        <description>Состав: пластик 100%</description>
-        <price>7371</price>
-        <oldprice>8190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Зеленый</param>
-        <param name="Размер">500</param>
-      </offer>
-      <offer id="10030768" available="true">
-        <name>Секундомер</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-fitnesa/stopwatch-sw-100-memory?sku=10030768</url>
-        <picture>https://madwave.ru/images/large/pic_1/10030768.jpg</picture>
-        <description>Состав: пластик 100%</description>
-        <price>6381</price>
-        <oldprice>7090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Зеленый</param>
-        <param name="Размер">100</param>
-      </offer>
-      <offer id="10025652" available="true">
-        <name>Секундомер</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-plavaniya/elektronnye-ustroystva/sekundomer/stopwatch-200-memory?sku=10025652</url>
-        <picture>https://madwave.ru/images/large/pic_1/10025652.jpg</picture>
-        <description>Состав: пластик 100%</description>
-        <price>6381</price>
-        <oldprice>7090</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Зеленый</param>
-        <param name="Размер">200</param>
-      </offer>
       <offer id="10023441" available="true">
         <name>Бутылка для воды</name>
         <categoryId>14</categoryId>
@@ -45361,19 +44746,6 @@
         <currencyId>RUB</currencyId>
         <param name="Цвет">Голубой</param>
         <param name="Размер">750 ml</param>
-      </offer>
-      <offer id="10022785" available="true">
-        <name>Электронный свисток</name>
-        <categoryId>14</categoryId>
-        <url>https://madwave.ru/catalog/inventar-dlya-fitnesa/e-whistle?sku=10022785</url>
-        <picture>https://madwave.ru/images/large/pic_1/10022785.jpg</picture>
-        <description>Состав: силикон 33%, абс-пластик 33%, нержавеющая сталь 33%</description>
-        <price>1971</price>
-        <oldprice>2190</oldprice>
-        <vendor>Mad Wave</vendor>
-        <currencyId>RUB</currencyId>
-        <param name="Цвет">Черный</param>
-        <param name="Размер">one size</param>
       </offer>
       <offer id="10019479" available="true">
         <name>Бутылка для воды</name>
