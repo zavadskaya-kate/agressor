@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-04-24 13:59">
+   <shop>
+      <url>https://van-gogi.smartomato.ru/</url>
+      <name>Товары кавказской кухни</name>
+      <company>ИП Киселев Олег Игоревич</company>
+      <currencies>
+         <currency id="RUB" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1">Хинкали</category>
+         <category id="2">Блюда из печи</category>
+         <category id="3">Горячее</category>
+         <category id="4">Мангал</category>
+         <category id="5">Холодные закуски</category>
+         <category id="6">Салаты</category>
+         <category id="7">Горячие закуски</category>
+         <category id="8">Десерты</category>
+      </categories>
+      <offers>
+         <offer id="set-baranina" available="true">
+            <name>Сет Баранина</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/set-baranina</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4866454/%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%D0%BB%D0%B8_%D0%BE%D1%82%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%D0%B5.webp</picture>
+            <price>360</price>
+            <currencyId>RUB</currencyId>
+            <description>Хинкали с сочной начинкой из баранины. На выбор отварные или жареные (3 шт.)</description>
+            <param name="Вес">300 г</param>
+         </offer>
+         <offer id="set-svinina-govyadina" available="true">
+            <name>Сет Свинина-говядина</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/set-svinina-govyadina</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4866455/%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%D0%BB%D0%B8_%D0%BE%D1%82%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%D0%B5.webp</picture>
+            <price>330</price>
+            <currencyId>RUB</currencyId>
+            <description>Хинкали с сочной начинкой из свинины и говядины. На выбор отварные или жареные (3 шт.)</description>
+            <param name="Вес">300 г</param>
+         </offer>
+         <offer id="set-govyadina" available="true">
+            <name>Сет Говядина</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/set-govyadina</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4866456/%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%D0%BB%D0%B8_%D0%BE%D1%82%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%D0%B5.webp</picture>
+            <price>330</price>
+            <currencyId>RUB</currencyId>
+            <description>Хинкали с сочной начинкой из говядины. На выбор отварные или жареные (3 шт.)</description>
+            <param name="Вес">300 г</param>
+         </offer>
+         <offer id="set-suluguni" available="true">
+            <name>Сет Сулугуни</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/set-suluguni</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4866457/%D1%85%D0%B8%D0%BD%D0%BA%D0%B0%D0%BB%D0%B8_%D0%BE%D1%82%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%D0%B5.webp</picture>
+            <price>360</price>
+            <currencyId>RUB</currencyId>
+            <description>Хинкали с сочной начинкой из сыра сулугуни. На выбор отварные или жареные (3 шт.)</description>
+            <param name="Вес">300 г</param>
+         </offer>
+         <offer id="tbilisskie-s-govyadinoy-v-bulone-s-tarkhunom" available="true">
+            <name>Тбилисские с говядиной в бульоне с тархуном</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/tbilisskie-s-govyadinoy-v-bulone-s-tarkhunom</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3876146/tbilisskiesgovyadinoivbulonestarkhunom1721284064.webp</picture>
+            <price>370</price>
+            <currencyId>RUB</currencyId>
+            <description>Хинкали подаются в насыщенном бульоне с тархуном и ароматными специями (3 шт.)</description>
+            <param name="Вес">300 г</param>
+         </offer>
+         <offer id="assorti-khinkali" available="true">
+            <name>Ассорти хинкали</name>
+            <categoryId>1</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/khinkali/assorti-khinkali</url>
+            <picture></picture>
+            <price>1350</price>
+            <currencyId>RUB</currencyId>
+            <description>Сочные и хрустящие хинкали с разнообразными начинками: Хинкали свинина-говядина отварные (2 шт.), жареные (1 шт.), Хинкали с сыром отварные (2 шт.), жареные (1 шт.), Хинкали баранина отварные (2 шт.), жареные (1 шт.), Хинкали телятина отварные (2 шт.), жареные (1 шт.), (12 шт.)</description>
+            <param name="Вес">1.1 кг</param>
+         </offer>
+         <offer id="khachapuri-iz-sloenogo-testa" available="true">
+            <name>Хачапури из слоеного теста</name>
+            <categoryId>2</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/blyuda-iz-pechi/khachapuri-iz-sloenogo-testa</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3875141/khachapuripenovani1721285195.webp</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Хачапури из воздушного слоёного теста и сочной сырной начинки - это восхитительное сочетание хрустящих слоев и тягучего сыра, создающее неповторимый вкус</description>
+            <param name="Вес">250 г</param>
+         </offer>
+         <offer id="khachapuri-po-megrelski" available="true">
+            <name>Хачапури по-мегрельски</name>
+            <categoryId>2</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/blyuda-iz-pechi/khachapuri-po-megrelski</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874766/khachapuripomegrelski1721285045.webp</picture>
+            <price>510</price>
+            <currencyId>RUB</currencyId>
+            <description>Пышная лепешка с тягучей начинкой из сыра, запеченная в духовке до золотистой корочки</description>
+            <param name="Вес">400 г</param>
+         </offer>
+         <offer id="khachapuri-po-adzharski-" available="true">
+            <name>Хачапури по-аджарски</name>
+            <categoryId>2</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/blyuda-iz-pechi/khachapuri-po-adzharski-</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874767/khachapuripoadzharski1721285305.webp</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Хачапури по-аджарски - это нежное тесто, наполненное расплавленным сыром и дополненное свежим яйцом. Это настоящая кулинарная симфония, которая поразит ваши вкусовые рецепторы.</description>
+            <param name="Вес">270 г</param>
+         </offer>
+         <offer id="khachapuri-na-mangale-" available="true">
+            <name>Хачапури на мангале</name>
+            <categoryId>2</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/blyuda-iz-pechi/khachapuri-na-mangale-</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3875449/1623933237namangale11662030203.webp</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Ароматный хачапури из дрожжевого теста, начиненный тянущимся сыром сулугуни, готовится на жарком мангале до золотистой корочки.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="odzhakhuri-so-svininoy" available="true">
+            <name>Оджахури со свининой</name>
+            <categoryId>3</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/goryachee/odzhakhuri-so-svininoy</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3876702/_24A0047__1_.webp</picture>
+            <price>470</price>
+            <currencyId>RUB</currencyId>
+            <description>Сочная свиная шея, жаренная до золотистой корочки с картофельными дольками, свежими томатами и репчатым луком, приправленная грузинскими специями и свежей кинзой.</description>
+            <param name="Вес">260 г</param>
+         </offer>
+         <offer id="chakhokhbili" available="true">
+            <name>Чахохбили</name>
+            <categoryId>3</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/goryachee/chakhokhbili</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3876704/_24A8645__1_.webp</picture>
+            <price>450</price>
+            <currencyId>RUB</currencyId>
+            <description>Сочное филе цыпленка, обжаренное на мангале, затем томлённое с томатами и луком, украшенное ароматной кинзой.</description>
+            <param name="Вес">280 г</param>
+         </offer>
+         <offer id="tomlenye-svinye-rebra-" available="true">
+            <name>Томленые свиные ребра</name>
+            <categoryId>3</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/goryachee/tomlenye-svinye-rebra-</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3876718/_24A0086__1_.webp</picture>
+            <price>650</price>
+            <currencyId>RUB</currencyId>
+            <description>Томленые свиные ребра в гранатовой глазури с картофелем и квашеной капустой</description>
+            <param name="Вес">350 г</param>
+         </offer>
+         <offer id="lyulya-kebab-iz-svininy-i-govyadiny" available="true">
+            <name>Люля-кебаб из свинины и говядины</name>
+            <categoryId>4</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/mangal/lyulya-kebab-iz-svininy-i-govyadiny</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3878034/_24A8856.webp</picture>
+            <price>490</price>
+            <currencyId>RUB</currencyId>
+            <description>Люля-кебаб из свинины и говядины - это сочное и ароматное блюдо, подающееся на лаваше с маринованным луком и зернами граната.</description>
+            <param name="Вес">230 г</param>
+         </offer>
+         <offer id="lyulya-kebab-iz-kuritsy" available="true">
+            <name>Люля-кебаб из курицы</name>
+            <categoryId>4</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/mangal/lyulya-kebab-iz-kuritsy</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3878035/531731824609.webp</picture>
+            <price>450</price>
+            <currencyId>RUB</currencyId>
+            <description>Жареный на огне до золотистой корочки, подается на лаваше с маринованным луком.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="shashlyk-iz-govyazhey-vyrezki" available="true">
+            <name>Шашлык из говяжей вырезки</name>
+            <categoryId>4</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/mangal/shashlyk-iz-govyazhey-vyrezki</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3878036/_24A8834.webp</picture>
+            <price>700</price>
+            <currencyId>RUB</currencyId>
+            <description>Шашлык из говяжьей вырезки, нежный и сочный, подается на лаваше с тонкими кольцами лука.</description>
+            <param name="Вес">100 г</param>
+         </offer>
+         <offer id="shashlyk-kuritsa" available="true">
+            <name>Шашлык курица</name>
+            <categoryId>4</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/mangal/shashlyk-kuritsa</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3878037/_24A8814.webp</picture>
+            <price>490</price>
+            <currencyId>RUB</currencyId>
+            <description>Приготовленный на огне до аппетитной корочки, шашлык из цыпленка подается на лаваше с маринованным луком и зеленью.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="shashlyk-iz-svinoy-shei" available="true">
+            <name>Шашлык из свиной шеи</name>
+            <categoryId>4</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/mangal/shashlyk-iz-svinoy-shei</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3878038/_24A8824.webp</picture>
+            <price>590</price>
+            <currencyId>RUB</currencyId>
+            <description>Шашлык из свиной шеи, приготовленный на огне, подается на лаваше с луком.</description>
+            <param name="Вес">240 г</param>
+         </offer>
+         <offer id="satsivi-s-tsyplenkom" available="true">
+            <name>Сациви с цыпленком</name>
+            <categoryId>5</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/kholodnye-zakuski/satsivi-s-tsyplenkom</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3873982/_24A9437__1_.webp</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Нежное филе цыпленка, обжаренное на мангале до золотистой корочки, пропитывается ароматом дыма и приобретает неповторимый вкус. А сверху – густой, пряный ореховый соус, который обволакивает каждый кусочек, добавляя насыщенность и глубину.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="salat-s-baklazhanami-i-sousom-chili" available="true">
+            <name>Салат с баклажанами и соусом Чили</name>
+            <categoryId>6</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/salaty/salat-s-baklazhanami-i-sousom-chili</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874177/_24A0175__1_.webp</picture>
+            <price>460</price>
+            <currencyId>RUB</currencyId>
+            <description>Салат с хрустящими баклажанами, свежими томатами и сладким чили - это сочетание обжаренных баклажанов, свежих томатов, зелени и сладкого соуса чили, создающее удивительно гармоничный вкус.</description>
+            <param name="Вес">180 г</param>
+         </offer>
+         <offer id="salat-s-zharenym-syrom-suluguni" available="true">
+            <name>Салат с жареным сыром Сулугуни</name>
+            <categoryId>6</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/salaty/salat-s-zharenym-syrom-suluguni</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874181/_24A0320__1_.webp</picture>
+            <price>480</price>
+            <currencyId>RUB</currencyId>
+            <description>Хрустящие листья салата и сочные томаты дополняются жареным сыром Сулугуни в золотистой панировке. Зеленый мацони добавляет свежесть, а зерна граната — сладкую кислинку и яркий акцент</description>
+            <param name="Вес">225 г</param>
+         </offer>
+         <offer id="salat-kavkazskiy" available="true">
+            <name>Салат "Кавказский"</name>
+            <categoryId>6</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/salaty/salat-kavkazskiy</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874175/_24A0190__2_.webp</picture>
+            <price>590</price>
+            <currencyId>RUB</currencyId>
+            <description>Отварная говядина со сладким перцем, томатами, маринованными и свежими огурцами, репчатым луком, имеретинским сыром, перцем чили и соусом мцванили.</description>
+            <param name="Вес">220 г</param>
+         </offer>
+         <offer id="salat-tbilisuri-" available="true">
+            <name>Салат Тбилисури</name>
+            <categoryId>6</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/salaty/salat-tbilisuri-</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3874178/111731765564.webp</picture>
+            <price>380</price>
+            <currencyId>RUB</currencyId>
+            <description>Спелые томаты, огурцы, лук, грецкие орехи с ароматной кинзой.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="shampinony-s-syrom-suluguni-v-ketsy" available="true">
+            <name>Шампиньоны с сыром Сулугуни в кеци</name>
+            <categoryId>7</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/goryachie-zakuski/shampinony-s-syrom-suluguni-v-ketsy/</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3875846/_24A8748__1_.webp</picture>
+            <price>390</price>
+            <currencyId>RUB</currencyId>
+            <description>Отборные шампиньоны, запеченные в сливках под сыром сулугуни, со свежей кинзой.</description>
+            <param name="Вес">160 г</param>
+         </offer>
+         <offer id="zharenyy-syr-suluguni" available="true">
+            <name>Жареный сыр сулугуни</name>
+            <categoryId>7</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/goryachie-zakuski/zharenyy-syr-suluguni</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3875847/_24A8775__1_.webp</picture>
+            <price>280</price>
+            <currencyId>RUB</currencyId>
+            <description>Кусочки сыра Сулугуни в панировке, обжаренные до золотистой корочки.</description>
+            <param name="Вес">180 г</param>
+         </offer>
+         <offer id="desert-granat" available="true">
+            <name>Десерт Гранат</name>
+            <categoryId>8</categoryId>
+            <url>https://van-gogi.smartomato.ru/menu/deserty/desert-granat</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/3879776/2024-11-18_11.05.03.webp</picture>
+            <price>450</price>
+            <currencyId>RUB</currencyId>
+            <description>Изысканный десерт, в котором гранатовый сок и свежие зерна граната сочетаются с нежным белым шоколадом и сливками, а какао-масло добавляет тонкие шоколадные нотки. Этот десерт — настоящий взрыв вкуса: яркий, свежий и одновременно нежный.</description>
+            <param name="Вес">120 г</param>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
