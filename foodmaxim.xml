@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-04-24 13:59">
+   <shop>
+      <url>https://foodmaxim.smartomato.ru/</url>
+      <name>Готовые блюда</name>
+      <company>ИП Киселев Олег Игоревич</company>
+      <currencies>
+         <currency id="RUB" rate="1" />
+      </currencies>
+      <categories>
+         <category id="1">Готовые завтраки</category>
+         <category id="2">Готовые салаты</category>
+         <category id="3">Готовое горячее</category>
+         <category id="4">Полуфабрикаты</category>
+      </categories>
+      <offers>
+         <offer id="syrniki" available="true">
+            <name>Сырники</name>
+            <categoryId>1</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-zavtraki/syrniki</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5148156/_24A9166.webp</picture>
+            <price>220</price>
+            <currencyId>RUB</currencyId>
+            <description>Творог, масло растительное, мука, сахар ванильный, сахар, яйцо.</description>
+            <param name="Вес">100 г</param>
+         </offer>
+         <offer id="bliny-s-myasom" available="true">
+            <name>Блины с мясом</name>
+            <categoryId>1</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-zavtraki/bliny-s-myasom</url>
+            <picture></picture>
+            <price>270</price>
+            <currencyId>RUB</currencyId>
+            <description>Масло сливочное, яйцо, масло растительное, мука, молоко, сахар, лук репчатый, свинина, говядина.</description>
+            <param name="Вес">120 г</param>
+         </offer>
+         <offer id="blinchiki-s-vetchinoy-i-syrom" available="true">
+            <name>Блинчики с ветчиной и сыром</name>
+            <categoryId>1</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-zavtraki/blinchiki-s-vetchinoy-i-syrom</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5149317/_24A8969.webp</picture>
+            <price>280</price>
+            <currencyId>RUB</currencyId>
+            <description>Масло сливочное, яйцо, масло растительное, мука, соль, сахар, молоко, ветчина, сыр голландский.</description>
+            <param name="Вес">120 г</param>
+         </offer>
+         <offer id="bliny-s-tvorogom" available="true">
+            <name>Блины с творогом</name>
+            <categoryId>1</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-zavtraki/bliny-s-tvorogom</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5149281/_24A8963.webp</picture>
+            <price>260</price>
+            <currencyId>RUB</currencyId>
+            <description>Масло сливочное, сахарная пудра, сметана, изюм, творог, яйцо, масло растительное, мука, сахар, молоко.</description>
+            <param name="Вес">120 г</param>
+         </offer>
+         <offer id="olive" available="true">
+            <name>Салат Оливье</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/olive</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987304/olive1721831805.webp</picture>
+            <price>250</price>
+            <currencyId>RUB</currencyId>
+            <description>Яйцо, майонез, огурцы маринованные, картофель, морковь, ветчина, горошек свежемороженый.</description>
+            <param name="Вес">150 г</param>
+         </offer>
+         <offer id="seld-pod-shuboy" available="true">
+            <name>Сельдь под шубой</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/seld-pod-shuboy</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987306/seldpodshuboy1721832357.webp</picture>
+            <price>260</price>
+            <currencyId>RUB</currencyId>
+            <description>Яйцо, картофель, сельдь слабой соли, лук репчатый, свекла, морковь, майонез.</description>
+            <param name="Вес">150 г</param>
+         </offer>
+         <offer id="vinegret" available="true">
+            <name>Винегрет</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/vinegret</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987311/vinegret1721831641.webp</picture>
+            <price>170</price>
+            <currencyId>RUB</currencyId>
+            <description>Огурцы маринованные, масло растительное, картофель, капуста, морковь, свекла, укроп.</description>
+            <param name="Вес">150 г</param>
+         </offer>
+         <offer id="salat-tsezar" available="true">
+            <name>Салат Цезарь</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/salat-tsezar</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987314/salattsezar1721831914.webp</picture>
+            <price>295</price>
+            <currencyId>RUB</currencyId>
+            <description>Салат романо, чеснок, филе куриное, черри, пармезан, хлеб для сендвичей, масло оливковое, лимон, анчоус, чеснок, горчица дижонская, яйцо.</description>
+            <param name="Вес">145 г</param>
+         </offer>
+         <offer id="granatovyy-braslet" available="true">
+            <name>Гранатовый браслет</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/granatovyy-braslet</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987760/salatgranatoviybraslet1721831260.webp</picture>
+            <price>260</price>
+            <currencyId>RUB</currencyId>
+            <description>Гранат, яйцо, грудка копченая, свекла, картофель, морковь, майонез.</description>
+            <param name="Вес">180 г</param>
+         </offer>
+         <offer id="salat-kurinyy-s-ananasom" available="true">
+            <name>Салат куриный с ананасом</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/salat-kurinyy-s-ananasom</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4987761/salatkuriniysananasom1721831374.webp</picture>
+            <price>275</price>
+            <currencyId>RUB</currencyId>
+            <description>Грудка копченая, капуста, ананасы консервированные, сыр голландский, грецкий орех, майонез, лук репчатый, морковь.</description>
+            <param name="Вес">120 г</param>
+         </offer>
+         <offer id="salat-grecheskiy" available="true">
+            <name>Салат Греческий</name>
+            <categoryId>2</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovye-salaty/salat-grecheskiy</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4997509/salatgrecheskiy1721831139.webp</picture>
+            <price>330</price>
+            <currencyId>RUB</currencyId>
+            <description>Салат Романо, соевый соус, чеснок, соль, сок лимона, уксус, масло растительное, маслины, перец болгарский, лук красный, брынза, помидоры, огурцы.</description>
+            <param name="Вес">150 г</param>
+         </offer>
+         <offer id="manty-myasnye" available="true">
+            <name>Манты мясные</name>
+            <categoryId>3</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/manty-myasnye</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5150380/_24A9306.webp</picture>
+            <price>360</price>
+            <currencyId>RUB</currencyId>
+            <description>Масло сливочное, картофель, лук, говядина, свинина, яйцо, мука.</description>
+            <param name="Вес">100 г</param>
+         </offer>
+         <offer id="plov-s-kuritsey" available="true">
+            <name>Плов с курицей</name>
+            <categoryId>3</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/plov-s-kuritsey</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4997646/plovskuritsey1721841186.webp</picture>
+            <price>270</price>
+            <currencyId>RUB</currencyId>
+            <description>Рис, морковь, лук репчатый, масло растительное, чеснок, филе бедра куриного, приправа.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="penne-s-kuritsey" available="true">
+            <name>Пенне с курицей</name>
+            <categoryId>3</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/penne-s-kuritsey</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5150394/_24A9255.webp</picture>
+            <price>290</price>
+            <currencyId>RUB</currencyId>
+            <description>Шампиньоны, макаронные изделия, сливки, куриное филе, масло растительное, соль, сыр пармезан, чеснок.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="myasnaya-kotleta-s-kartofelnym-pyure" available="true">
+            <name>Мясная котлета с картофельным пюре</name>
+            <categoryId>3</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/myasnaya-kotleta-s-kartofelnym-pyure</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5150395/_24A9263.webp</picture>
+            <price>330</price>
+            <currencyId>RUB</currencyId>
+            <description>Свинина, говядина, лук жареный, яйцо, картофель, масло сливочное, молоко.</description>
+            <param name="Вес">230 г</param>
+         </offer>
+         <offer id="grechnevaya-soba-s-kuritsey-i-ovoshchami" available="true">
+            <name>Гречневая соба с курицей и овощами</name>
+            <categoryId>3</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/grechnevaya-soba-s-kuritsey-i-ovoshchami</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/4997647/grechnevayasobasovoshchami1721841498.webp</picture>
+            <price>290</price>
+            <currencyId>RUB</currencyId>
+            <description>Овощная смесь, филе куриное, гречневая лапша Соба, соус терияки, соевый соус, масло растительное, соль, кунжутное семя, сахар.</description>
+            <param name="Вес">200 г</param>
+         </offer>
+         <offer id="pelmeni-s-kuritsey" available="true">
+            <name>Пельмени с курицей</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/pelmeni-s-kuritsey</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151250/_24A1971.webp</picture>
+            <price>610</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Мука, соль, яйцо, лук репчатый, масло растительное, филе куриное.</description>
+            <param name="Вес">500 г</param>
+         </offer>
+         <offer id="pelmeni-myasnye" available="true">
+            <name>Пельмени мясные</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/pelmeni-myasnye</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151377/_24A1969.webp</picture>
+            <price>690</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Соль, мука, яйцо, шея свиная, говядина, лук репчатый, масло растительное.</description>
+            <param name="Вес">500 г</param>
+         </offer>
+         <offer id="vareniki-kartofelnye" available="true">
+            <name>Вареники картофельные</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/vareniki-kartofelnye</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151380/_24A2050.webp</picture>
+            <price>300</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Лук репчатый, картофель, соль, мука, яйцо, масло растительное.</description>
+            <param name="Вес">500 г</param>
+         </offer>
+         <offer id="manty-myasnye" available="true">
+            <name>Манты мясные</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/manty-myasnye</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151395/_24A1958.webp</picture>
+            <price>620</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Соль, масло сливочное, картофель, лук репчатый, говядина, шея свиная, перец, мука, яйцо.</description>
+            <param name="Вес">480 г</param>
+         </offer>
+         <offer id="pelmeni-iz-indeyki" available="true">
+            <name>Пельмени из индейки</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/pelmeni-iz-indeyki</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151454/_24A1981.webp</picture>
+            <price>670</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Мука, соль, яйцо, индейка, сало, лук репчатый, перец, сливки.</description>
+            <param name="Вес">500 г</param>
+         </offer>
+         <offer id="pelmeni-iz-oleniny" available="true">
+            <name>Пельмени из оленины</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/pelmeni-iz-oleniny</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151469/_24A1991.webp</picture>
+            <price>820</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Окорок оленя, лук репчатый, масло растительное, соль, масло сливочное, шея свиная, ягода можжевельника, перец, мука, яйцо.</description>
+            <param name="Вес">500 г</param>
+         </offer>
+         <offer id="syrniki-" available="true">
+            <name>Сырники</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/syrniki-</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151481/_24A2152.webp</picture>
+            <price>410</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Сахар ванильный, мука, соль, соль, яйцо, творог.</description>
+            <param name="Вес">300 г</param>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
