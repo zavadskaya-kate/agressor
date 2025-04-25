@@ -124,7 +124,7 @@
             <description>Салат Романо, соевый соус, чеснок, соль, сок лимона, уксус, масло растительное, маслины, перец болгарский, лук красный, брынза, помидоры, огурцы.</description>
             <param name="Вес">150 г</param>
          </offer>
-         <offer id="manty-myasnye" available="true">
+         <offer id="manty-myasnye-polufab" available="true">
             <name>Манты мясные</name>
             <categoryId>3</categoryId>
             <url>https://foodmaxim.smartomato.ru/menu/gotovoe-goryachee/manty-myasnye</url>
@@ -203,6 +203,16 @@
             <currencyId>RUB</currencyId>
             <description>Состав: Лук репчатый, картофель, соль, мука, яйцо, масло растительное.</description>
             <param name="Вес">500 г</param>
+         </offer>
+         <offer id="manty-myasnye" available="true">
+            <name>Манты мясные</name>
+            <categoryId>4</categoryId>
+            <url>https://foodmaxim.smartomato.ru/menu/polufabrikaty/manty-myasnye</url>
+            <picture>https://53a7276f-d68f-462e-a2bf-df223e005be4.selstorage.ru/uploads/media/photo/5151395/_24A1958.webp</picture>
+            <price>620</price>
+            <currencyId>RUB</currencyId>
+            <description>Состав: Соль, масло сливочное, картофель, лук репчатый, говядина, шея свиная, перец, мука, яйцо.</description>
+            <param name="Вес">480 г</param>
          </offer>
          <offer id="pelmeni-iz-indeyki" available="true">
             <name>Пельмени из индейки</name>
