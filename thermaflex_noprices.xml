@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-06-13 16:10">
+   <shop>
+      <url>https://thermaflex.ru/</url>
+      <name>Теплоизоляция Thermaflex</name>
+      <company>ООО «Термафлекс Изоляция+»</company>
+      <currencies>
+         <currency id="RUB" rate="1"/>
+      </currencies>
+      <categories>
+         <category id="1">Теплоизоляция Thermaflex</category>
+      </categories>
+      <offers>
+         <offer id="thermaflex-thermasmart-pro" available="true">
+            <name>Универсальная трубная изоляция ThermaSmart PRO</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/tubes/thermaflex-thermasmart-pro/</url>
+            <picture>https://thermaflex.ru/upload/iblock/310/fgawitgw3cn513cj43k7cw91h4depz72/ThermaSmart-PRO-tubes.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Устойчив к ультрафиолетовому излучению. Предохраняет систему от агрессивного воздействия многих химикатов. Низкий уровень дымообразования и токсичности (EN 13501-1(SBI) - Cls1d0). Создаёт надёжную акустическую изоляцию всей системы. Размерный ряд составлен в соответствии с наиболее распространёнными диаметрами стальных, медных и пластиковых труб и полностью отвечает запросам потребителей.</description>
+         </offer>
+         <offer id="thermaeco" available="true">
+            <name>Универсальная трубная теплоизоляция Thermaflex ThermaEco</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/tubes/thermaeco/</url>
+            <picture>https://thermaflex.ru/upload/resize_cache/iblock/543/944_630_0/54324e9534f8d0800d49f21310394700.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Теплоизоляция ThermaEСО - химически стойкая к агрессивным средам, обладает повышенной прочностью и долговечностью. За счет своей закрытой ячеистой структуры не впитывает и не накапливает влагу. Является надежным защитником от потерь тепла, образования конденсата и коррозии.</description>
+         </offer>
+         <offer id="thermaflex-frz" available="true">
+            <name>Трубная изоляция Thermaflex FRZ</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/tubes/thermaflex-frz/</url>
+            <picture>https://thermaflex.ru/upload/iblock/07b/thermaflex_frz.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Гибкая техническая изоляция из вспененного полиэтилена. Разработана специально для объектов с повышенными техническими требованиями к теплоизоляции. Имеет закрытую мелкоячеистую структуру, повышенную плотность и продольный надрез для разрезания при монтаже.</description>
+         </offer>
+         <offer id="thermaflex-thermacompact" available="true">
+            <name>Специальная трубная изоляция Thermaflex ThermaCompact IS</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/tubes/thermaflex-thermacompact/</url>
+            <picture>https://thermaflex.ru/upload/iblock/8e7/8e7907d9934891e994559e78c3c53d10.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Гибкий изоляционный материал с закрытой ячеистой структурой. Предназначен для теплоизоляции труб систем отопления и водоснабжения, прокладываемых внутри конструкций полов и стен. Материал снабжен прочным полиэтиленовым покрытием красного и синего цвета, обеспечивающим надежную защиту от агрессивного воздействия строительных материалов и механических повреждений.</description>
+         </offer>
+         <offer id="thermaflex-ultra-m" available="true">
+            <name>Техническая трубная теплоизоляция Thermaflex Ultra M</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/tubes/thermaflex-ultra-m/</url>
+            <picture>https://thermaflex.ru/upload/iblock/92d/92d35b5d08da59166e71fe63133c51dd.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Имеет закрытоячеистую структуру и высокие теплоизоляционные свойства с крайне низким водопоглощением - не впитывает и не накапливает влагу даже в помещениях с повышенной влажностью. Эффективно защищает установку от образования конденсата и коррозии.   Устойчива к воздействию агрессивных химических сред (в том числе, к моющим и дезинфицирующим веществам) и к ультрафиолетовому излучению. Легко, быстро и чисто монтируется – нажатием пальцев.</description>
+         </offer>
+         <offer id="thermasheet-eco" available="true">
+            <name>Универсальная изоляция Thermasheet ECO/ECO SA/ECO VSA</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/sheets/thermasheet-eco/</url>
+            <picture>https://thermaflex.ru/upload/iblock/54f/eco_sheet.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Универсальная листовая изоляция для систем отопления, водоснабжения, вентиляции, холодоснабжения и канализации в гражданском и промышленном строительстве.</description>
+         </offer>
+         <offer id="thermasheet-eco-fl" available="true">
+            <name>Листовая теплоизоляция Thermasheet ECO FL</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/sheets/thermasheet-eco-fl/</url>
+            <picture>https://thermaflex.ru/upload/iblock/9c9/eco_sheet_fl.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Комбинированная отражающая теплоизоляция в рулонах. Изготавливается из высококачественного вспененного полиэтилена с закрытой ячеистой структурой, который ламинирован лавсановой металлизированной пленкой толщиной 11 мкм.</description>
+         </offer>
+         <offer id="thermasheet-fr" available="true">
+            <name>Универсальная листовая изоляция Thermasheet FR</name>
+            <categoryId>1</categoryId>
+            <url>https://thermaflex.ru/products/thermaflex/sheets/thermasheet-fr/</url>
+            <picture>https://thermaflex.ru/upload/iblock/b77/thermasheet_fr.jpg</picture>
+            <currencyId>RUB</currencyId>
+            <description>Универсальный листовой утеплитель в рулонах из вспененного полиэтилена с закрытоячеистой структурой, который надежно защищает  инженерные системы и установки от образования конденсата и тепловых потерь.</description>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
