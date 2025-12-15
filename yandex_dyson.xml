@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-06-27 14:31">
+<yml_catalog date="2025-12-15 12:30">
    <shop>
       <url>https://shop-dyson.kz</url>
       <name>Продукция DYSON</name>
@@ -220,15 +220,6 @@
             <price>349990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
-         </offer>
-         <offer id="596931-01" available="true">
-            <name>Выпрямитель Dyson Airstrait™ HT01</name>
-            <categoryId>2</categoryId>
-            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-ht01-barxatno-krasnyij/zoloto-1506</url>
-            <picture>https://shop-dyson.kz/assets/cache_image/products/1506/62048.750x0_550x550_34b.jpg</picture>
-            <price>259990</price>
-            <currencyId>KZT</currencyId>
-            <description>Выпрямитель Dyson Airstrait™ для влажной и сухой укладки - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
          </offer>
          <offer id="515166-01" available="true">
             <name>Фен Dyson Supersonic Nural™ HD16</name>
