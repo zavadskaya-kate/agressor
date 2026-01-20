@@ -293,6 +293,33 @@
             <currencyId>KZT</currencyId>
             <description>Автоматически адаптируется для улучшения естественного блеска волос и защиты здоровья кожи головы. Быстрая и умная сушка без экстремально высоких температур. Подстраивается под ваши предпочтения в укладке.</description>
          </offer>
+         <offer id="123682-01" available="true">
+            <name>Стайлер Dyson Airwrap i.d.™ HS08 для разных типов волос Amber silk</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/stajlr-dyson-airwrap-id-hs08-straightwavy-yantarnyij-shelk/rozovoe-shampanskoe-1536</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1536/123698-01_550x550_34b.jpg</picture>
+            <price>369990</price>
+            <currencyId>KZT</currencyId>
+            <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
+         </offer>
+         <offer id="143343-01" available="true">
+            <name>Выпрямитель Dyson Airstrait™ HT01 Amber silk</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/vyipryamitel-dyson-airstrait-ht01-yantarnyij-shelk/rozovoe-shampanskoe-1535</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1535/dyson-375125625-3p-553b-flix-pdp-primary_550x550_34b.jpg</picture>
+            <price>279990</price>
+            <currencyId>KZT</currencyId>
+            <description>Выпрямитель Dyson Airstrait™ для влажной и сухой укладки  - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
+         </offer>
+         <offer id="143709-01" available="true">
+            <name>Фен Dyson Supersonic Nural™ HD16 Amber Silk</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/fen-dyson-hd16-supersonic-nural-yantarnyij-shelk-1534</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1534/143709-01_550x550_34b.jpg</picture>
+            <price>279990</price>
+            <currencyId>KZT</currencyId>
+            <description>Автоматически адаптируется для улучшения естественного блеска волос и защиты здоровья кожи головы. Быстрая и умная сушка без экстремально высоких температур. Подстраивается под ваши предпочтения в укладке. Пять интеллектуальных насадок для разных типов укладки.</description>
+         </offer>
       </offers>
    </shop>
 </yml_catalog>
