@@ -32,7 +32,7 @@
             <currencyId>KZT</currencyId>
             <description>Высокая мощность всасывания в процессе эксплуатации. До 60 минут непрерывной работы. Захватывает 99,97% частиц, размером 0,3 микрон.</description>
          </offer>
-         <offer id="448884-01" available="true">
+         <offer id="448884-01" available="false">
             <name>Беспроводной пылесос Dyson V12 Detect Slim Absolute</name>
             <categoryId>1</categoryId>
             <url>https://shop-dyson.kz/pyilesos-ruchnoj/besprovodnoj-pyilesos-dyson-v12-detect-slim-absolute-(sv46)</url>
@@ -149,12 +149,12 @@
             <currencyId>KZT</currencyId>
             <description>Функция вентилятора. Автоматическая очистка воздуха. Непрерывно обнаруживает и разрушает формальдегид. Отображает качества воздуха.</description>
          </offer>
-         <offer id="314696-01" available="false">
+         <offer id="314696-01" available="true">
             <name>Сушилка для рук Dyson Airblade 9kJ HU03</name>
             <categoryId>4</categoryId>
             <url>https://shop-dyson.kz/sushilki-dlya-ruk/sushilka-dlya-ruk-dyson-airblade-hu03-nerzhaveyushhaya-stal-1040</url>
             <picture>https://shop-dyson.kz/assets/images/products/1040/314696-01.png</picture>
-            <price>725090</price>
+            <price>699990</price>
             <currencyId>KZT</currencyId>
             <description>Быстрое высушивание рук всего за 10 секунд. Мощный двигатель Dyson V4 с цифровым управлением вращается со скоростью 75 000 оборотов в минуту, пропуская через себя до 23л. воздуха в секунду, высушивая руки всего за 10 секунд в режиме Максимум</description>
          </offer>
