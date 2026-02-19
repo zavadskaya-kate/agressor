@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-18 13:30">
+<yml_catalog date="2026-02-19 14:30">
    <shop>
       <url>https://shop-dyson.kz</url>
       <name>Продукция DYSON</name>
@@ -319,6 +319,33 @@
             <price>279990</price>
             <currencyId>KZT</currencyId>
             <description>Автоматически адаптируется для улучшения естественного блеска волос и защиты здоровья кожи головы. Быстрая и умная сушка без экстремально высоких температур. Подстраивается под ваши предпочтения в укладке. Пять интеллектуальных насадок для разных типов укладки.</description>
+         </offer>
+         <offer id="596926-01" available="true">
+            <name>Стайлер Dyson Airwrap i.d.™ HS08 для разных типов волос</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/stajler-dyson-airwrap-id-hs08-straightwavy-barxatno-krasnyij/zolotoj-1547</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1547/596926-01_550x550_34b.jpg.webp</picture>
+            <price>369990</price>
+            <currencyId>KZT</currencyId>
+            <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
+         </offer>
+         offer id="598775-01" available="true">
+            <name>Стайлер Dyson Airwrap Co-anda2x™ Straight+Wavy Jasper Plum</name>
+            <categoryId>2</categoryId>
+            <url>https://shop-dyson.kz/stajler-dyson-airwrap-straightwavy-hs09-co-anda-2x-purpurnaya-yashma-1548</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1548/dyson-airwrap-co-anda2x-multi-styler-and-dryer-hs09-straightwavy-(jasper-plum)_550x550_29b.png.webp</picture>
+            <price>469990</price>
+            <currencyId>KZT</currencyId>
+            <description>Стайлер нового поколения Dyson Co-anda 2x™ – имеет удвоенную мощность воздушного потока, более совершенный дизайн и самый мощный мотор Dyson, что позволяет быстрее высушивать волосы, создавать идеальные локоны, а также выпрямлять волосы, без чрезмерного теплового повреждения.</description>
+         </offer>
+         offer id="544901-01" available="true">
+            <name>Очиститель воздуха Dyson TP11 Purifier Cool PC1</name>
+            <categoryId>3</categoryId>
+            <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-tp11-purifier-cool-pc1</url>
+            <picture>https://shop-dyson.kz/assets/cache_image/products/1433/544901-01_550x550_81b.jpeg.webp</picture>
+            <price>486990</price>
+            <currencyId>KZT</currencyId>
+            <description>Функция вентилятора,fвтоматическое очищение воздуха. Захватывает смог, пыль и аллергены. Мониторинг и контроль качества воздуха с помощью приложения MyDyson™.</description>
          </offer>
       </offers>
    </shop>
