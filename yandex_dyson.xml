@@ -329,7 +329,7 @@
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
          </offer>
-         offer id="598775-01" available="true">
+         <offer id="598775-01" available="true">
             <name>Стайлер Dyson Airwrap Co-anda2x™ Straight+Wavy Jasper Plum</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/stajler-dyson-airwrap-straightwavy-hs09-co-anda-2x-purpurnaya-yashma-1548</url>
@@ -338,7 +338,7 @@
             <currencyId>KZT</currencyId>
             <description>Стайлер нового поколения Dyson Co-anda 2x™ – имеет удвоенную мощность воздушного потока, более совершенный дизайн и самый мощный мотор Dyson, что позволяет быстрее высушивать волосы, создавать идеальные локоны, а также выпрямлять волосы, без чрезмерного теплового повреждения.</description>
          </offer>
-         offer id="544901-01" available="true">
+         <offer id="544901-01" available="true">
             <name>Очиститель воздуха Dyson TP11 Purifier Cool PC1</name>
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-tp11-purifier-cool-pc1</url>
