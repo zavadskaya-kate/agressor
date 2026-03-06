@@ -19,7 +19,7 @@
             <categoryId>1</categoryId>
             <url>https://shop-dyson.kz/pyilesos-ruchnoj/pyilesos-vertikalnyij-dyson-v8-sv25</url>
             <picture>https://shop-dyson.kz/assets/images/products/1270/asset-mms-105933366.webp</picture>
-            <price>199990</price>
+            <price>209999</price>
             <currencyId>KZT</currencyId>
             <description>До 40 минут работы. Подходит для всех типов напольных покрытий. Уборка различных поверхностей в доме — от пола и до потолка. Не требует смены фильтров. Выпускает чистый воздух при работе, подходит для людей склонным к аллергии.</description>
          </offer>
@@ -149,7 +149,7 @@
             <currencyId>KZT</currencyId>
             <description>Функция вентилятора. Автоматическая очистка воздуха. Непрерывно обнаруживает и разрушает формальдегид. Отображает качества воздуха.</description>
          </offer>
-         <offer id="314696-01" available="true">
+         <offer id="314696-01" available="false">
             <name>Сушилка для рук Dyson Airblade 9kJ HU03</name>
             <categoryId>4</categoryId>
             <url>https://shop-dyson.kz/sushilki-dlya-ruk/sushilka-dlya-ruk-dyson-airblade-hu03-nerzhaveyushhaya-stal-1040</url>
@@ -185,7 +185,7 @@
             <currencyId>KZT</currencyId>
             <description>Мойте и высушивайте руки прямо над раковиной. Никакой воды на полу. С технологией Airblade, интегрированной в смеситель, руки можно высушить прямо над раковиной всего за 14 секунд.</description>
          </offer>
-         <offer id="245266-01" available="false">
+         <offer id="245266-01" available="true">
             <name>Смеситель c сушилкой Dyson Airblade Wash+Dry WD06</name>
             <categoryId>4</categoryId>
             <url>https://shop-dyson.kz/sushilki-dlya-ruk/smesitel-c-sushilkoj-dyson-airblade-washdry-wd06-vstraivaemyij-1039</url>
@@ -343,7 +343,7 @@
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-tp11-purifier-cool-pc1</url>
             <picture>https://shop-dyson.kz/assets/cache_image/products/1433/544901-01_550x550_81b.jpeg.webp</picture>
-            <price>486990</price>
+            <price>419990</price>
             <currencyId>KZT</currencyId>
             <description>Функция вентилятора,fвтоматическое очищение воздуха. Захватывает смог, пыль и аллергены. Мониторинг и контроль качества воздуха с помощью приложения MyDyson™.</description>
          </offer>
