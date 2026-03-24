@@ -158,7 +158,7 @@
             <currencyId>KZT</currencyId>
             <description>Быстрое высушивание рук всего за 10 секунд. Мощный двигатель Dyson V4 с цифровым управлением вращается со скоростью 75 000 оборотов в минуту, пропуская через себя до 23л. воздуха в секунду, высушивая руки всего за 10 секунд в режиме Максимум</description>
          </offer>
-         <offer id="307170-01" available="false">
+         <offer id="307170-01" available="true">
             <name>Сушилка для рук Dyson Airblade V</name>
             <categoryId>4</categoryId>
             <url>https://shop-dyson.kz/sushilki-dlya-ruk/sushilka-dlya-ruk-dyson-airblade-v-hu02-nikel-1067</url>
