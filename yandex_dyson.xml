@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-07 17:30">
+<yml_catalog date="2026-04-28 17:30">
    <shop>
       <url>https://shop-dyson.kz</url>
       <name>Продукция DYSON</name>
@@ -131,7 +131,7 @@
             <currencyId>KZT</currencyId>
             <description>Лимитированная коллекция. Пять насадок для укладки, включая новую насадку для непослушных волос. Интеллектуальная система контроля температуры исходящего воздуха.</description>
          </offer>
-         <offer id="454857-01" available="true">
+         <offer id="454857-01" available="false">
             <name>Очиститель воздуха Dyson HP10 Purifier Hot+Cool Gen1</name>
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-hp10-purifier-hotcool-gen1-1471</url>
@@ -140,7 +140,7 @@
             <currencyId>KZT</currencyId>
             <description>Удаляет до 99,97% мельчайших частиц размером 0,3 микрона, обеспечивая чистый воздух. Эффективно обогревает или охлаждает помещение, создавая комфорт круглый год.</description>
          </offer>
-         <offer id="369876-01" available="true">
+         <offer id="369876-01" available="false">
             <name>Очиститель воздуха Dyson TP09 Purifier Cool Formaldehyde</name>
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-tp09-purifier-cool-formaldehyde-1057</url>
@@ -167,7 +167,7 @@
             <currencyId>KZT</currencyId>
             <description>Гигиеничная сушилка для рук теперь на 35% тише. Удостоена знака Quiet Mark. Фильтры HEPA улавливают из воздуха до 99,95% частиц размером с бактерию.</description>
          </offer>
-         <offer id="245265-01" available="true">
+         <offer id="245265-01" available="false">
             <name>Смеситель c сушилкой Dyson Airblade Wash+Dry WD04</name>
             <categoryId>4</categoryId>
             <url>https://shop-dyson.kz/sushilki-dlya-ruk/sushilka-dlya-ruk-dyson-airblade-wd04-belyij-1037</url>
@@ -248,7 +248,7 @@
             <currencyId>KZT</currencyId>
             <description>Для всех типов напольных покрытий. До 40 мин. работы. 3 насадки + док.станция. Гарантия 2 года.</description>
          </offer>
-         <offer id="479333-01" available="false">
+         <offer id="479333-01" available="true">
             <name>Пылесос вертикальный Dyson V11 SV51 Advanced</name>
             <categoryId>1</categoryId>
             <url>https://shop-dyson.kz/pyilesos-ruchnoj/pyilesos-vertikalnyij-dyson-v11-sv51-advanced-1510</url>
@@ -284,7 +284,7 @@
             <currencyId>KZT</currencyId>
             <description>Выпрямитель Dyson Airstrait для влажной и сухой укладки  - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
          </offer>
-         <offer id="599003-01" available="false">
+         <offer id="599003-01" available="true">
             <name>Фен Dyson HD16 Supersonic Nural сливовый</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/fen-dyson-hd16-supersonic-nural-slivovyij-1522</url>
