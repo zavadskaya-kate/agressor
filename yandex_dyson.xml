@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-28 17:30">
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-06-11 17:30">
    <shop>
       <url>https://shop-dyson.kz</url>
       <name>Продукция DYSON</name>
       <company>ТОО «АК Цент Микросистемс»</company>
       <currencies>
-         <currency id="KZT" rate="1"/>
+         <currency id="KZT" rate="1" />
       </currencies>
       <categories>
          <category id="1">Пылесосы</category>
@@ -208,7 +208,7 @@
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/stajler-dyson-airwrap-hs08-straightwavy-patina/topaz-1481</url>
             <picture>https://shop-dyson.kz/assets/cache_image/products/1481/whatsapp-image-2025-02-25-at-15.03.02_550x550_81b.jpeg</picture>
-            <price>369990</price>
+            <price>309990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
          </offer>
@@ -217,7 +217,7 @@
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/stajler-dyson-airwrap-id-hs08-curlycoily-patina/topaz-1511</url>
             <picture>https://shop-dyson.kz/assets/cache_image/products/1511/te30u0r5v9q1j0l51cs6imj1rp9kmpu4-(1)_550x550_81b.jpeg</picture>
-            <price>369990</price>
+            <price>309990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
          </offer>
@@ -257,7 +257,7 @@
             <currencyId>KZT</currencyId>
             <description>Высокая мощность всасывания для уборки всего дома, до 60 мин. работы, 3 насадки + док-станция</description>
          </offer>
-         <offer id="369020-01" available="true">
+         <offer id="369020-01" available="false">
             <name>Очиститель воздуха Dyson HP09 Purifier Hot+Cool Formaldahyd</name>
             <categoryId>3</categoryId>
             <url>https://shop-dyson.kz/ochistitel-vozduxa-dyson-hp09-purifier-hotcool-formaldahyd-1041</url>
@@ -284,7 +284,7 @@
             <currencyId>KZT</currencyId>
             <description>Выпрямитель Dyson Airstrait для влажной и сухой укладки  - инновационный способ выпрямления волос. Устройство одновременно высушивает и выпрямляет волосы только при помощи воздуха. Без горячих пластин. Без экстремального повреждения.</description>
          </offer>
-         <offer id="599003-01" available="true">
+         <offer id="599003-01" available="false">
             <name>Фен Dyson HD16 Supersonic Nural сливовый</name>
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/fen-dyson-hd16-supersonic-nural-slivovyij-1522</url>
@@ -298,7 +298,7 @@
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/stajlr-dyson-airwrap-id-hs08-straightwavy-yantarnyij-shelk/rozovoe-shampanskoe-1536</url>
             <picture>https://shop-dyson.kz/assets/cache_image/products/1536/123698-01_550x550_34b.jpg</picture>
-            <price>309990</price>
+            <price>369990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
          </offer>
@@ -325,7 +325,7 @@
             <categoryId>2</categoryId>
             <url>https://shop-dyson.kz/stajler-dyson-airwrap-id-hs08-straightwavy-barxatno-krasnyij/zolotoj-1547</url>
             <picture>https://shop-dyson.kz/assets/cache_image/products/1547/596926-01_550x550_34b.jpg.webp</picture>
-            <price>309990</price>
+            <price>369990</price>
             <currencyId>KZT</currencyId>
             <description>Устройство создает идеальные локоны одним нажатием кнопки, без теплового повреждения волос. В комплекте 6 насадок, включая новую конусную насадку для более упругих и четких локонов. Обновленная насадка позволяет создавать завитки ближе к прикорневой зоне волос.</description>
          </offer>
